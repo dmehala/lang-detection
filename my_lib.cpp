@@ -12,6 +12,10 @@ void close() {
   pFuncNtTerminateProcess((NTSTATUS)0);
 }
 
+bool contains(std::string_view sv, std::string_view pattern) {
+  return sv.find(pattern) != sv.npos;
+}
+
 bool try_python(HMODULE *hPython) {
   assert(hPython != nullptr);
 
@@ -79,6 +83,34 @@ bool try_nodejs(HMODULE *hNodeJS) {
   return true;
 }
 
+bool try_php(HMODULE *hPhp) {
+  assert(hPhp != nullptr);
+
+  typedef const char *(*php_version_func)();
+  php_version_func php_version =
+      (php_version_func)GetProcAddress(*hPhp, "php_version");
+  if (php_version == nullptr)
+    return false;
+
+  auto version = php_version();
+  if (version == nullptr)
+    return false;
+
+  std::cout << "Found PHP version: " << version << std::endl;
+  return true;
+}
+
+bool try_ruby(HMODULE *hRuby) {
+  assert(hRuby != nullptr);
+
+  const char *version = (const char *)GetProcAddress(*hRuby, "ruby_version");
+  if (version == nullptr)
+    return false;
+
+  std::cout << "Found Ruby version: " << version << std::endl;
+  return true;
+}
+
 void detect_runtime() {
   DWORD pid = GetCurrentProcessId();
   if (pid == 0)
@@ -102,31 +134,38 @@ void detect_runtime() {
     char modname[MAX_PATH];
     if (!GetModuleFileName(hModule[i], modname, 1024)) {
       std::cout << "Failed to load module name" << std::endl;
-      return;
+      continue;
     }
 
     std::filesystem::path dllpath{modname};
     std::string dllname{dllpath.filename().generic_string()};
     std::string_view view{dllname};
 
-    std::cout << "Found module: " << modname << ", dll: " << dllname
-              << std::endl;
+    /*std::cout << "Found module: " << modname << ", dll: " << dllname*/
+    /*          << std::endl;*/
 
     if (view.starts_with("python")) {
       std::cout << "Python detected!" << std::endl;
-      if (try_python(&hModule[i])) {
+      if (try_python(&hModule[i]))
         return;
-      }
     } else if (view.starts_with("MSCOREE")) {
       std::cout << "Dotnet detected!" << std::endl;
-      if (try_dotnet(&hModule[i])) {
+      if (try_dotnet(&hModule[i]))
         return;
-      }
     } else if (view.starts_with("node.exe")) {
       std::cout << "NodeJS detected!" << std::endl;
-      if (try_nodejs(&hModule[i])) {
+      if (try_nodejs(&hModule[i]))
         return;
-      }
+    } else if (contains(view, "php")) {
+      std::cout << "PHP detected!" << std::endl;
+      if (try_php(&hModule[i]))
+        return;
+    } else if (contains(view, "ruby")) {
+      std::cout << "Ruby detected!" << std::endl;
+      if (try_ruby(&hModule[i]))
+        return;
+    } else if (view == "java.dll" || view == "jvm.dll") {
+      std::cout << "Java detected!" << std::endl;
     }
   }
 }
