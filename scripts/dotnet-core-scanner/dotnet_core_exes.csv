@@ -1,0 +1,621 @@
+bin,dotnet_core,module
+C:\$GetCurrent\media\sources\setupdiag.exe,True,mscoree.dll
+C:\Program Files\dotnet\sdk\9.0.103\DotnetTools\dotnet-format\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe,True,mscoree.dll
+C:\Program Files\dotnet\sdk\9.0.103\DotnetTools\dotnet-watch\9.0.103-servicing.25071.13\tools\net9.0\any\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe,True,mscoree.dll
+C:\Program Files\dotnet\sdk\9.0.103\Extensions\dump\DumpMinitool.exe,True,mscoree.dll
+C:\Program Files\dotnet\sdk\9.0.103\Extensions\dump\DumpMinitool.x86.exe,True,mscoree.dll
+C:\Program Files\dotnet\sdk\9.0.103\TestHostNetFramework\datacollector.exe,True,mscoree.dll
+C:\Program Files\dotnet\sdk\9.0.103\TestHostNetFramework\testhost.net47.x86.exe,True,mscoree.dll
+C:\Program Files\dotnet\sdk\9.0.103\TestHostNetFramework\testhost.net471.x86.exe,True,mscoree.dll
+C:\Program Files\dotnet\sdk\9.0.103\TestHostNetFramework\testhost.net472.x86.exe,True,mscoree.dll
+C:\Program Files\dotnet\sdk\9.0.103\TestHostNetFramework\testhost.net48.x86.exe,True,mscoree.dll
+C:\Program Files\dotnet\sdk\9.0.103\TestHostNetFramework\testhost.x86.exe,True,mscoree.dll
+C:\Program Files\Git\mingw64\bin\git-credential-manager.exe,True,mscoree.dll
+C:\Program Files\Hyper-V\InspectVhdDialog.exe,True,mscoree.dll
+C:\Program Files\Hyper-V\VMCreate.exe,True,mscoree.dll
+C:\Program Files\Hyper-V\VMImport.exe,True,mscoree.dll
+C:\Program Files\IIS Express\IisExpressAdminCmd.exe,True,mscoree.dll
+C:\Program Files\IIS Express\iisexpresstray.exe,True,mscoree.dll
+C:\Program Files\Internet Explorer\iediagcmd.exe,True,mscoree.dll
+C:\Program Files\Microsoft\Web Platform Installer\WebpiCmd-x64.exe,True,mscoree.dll
+C:\Program Files\Microsoft\Web Platform Installer\WebpiCmd.exe,True,mscoree.dll
+C:\Program Files\Microsoft\Web Platform Installer\WebPlatformInstaller.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Microsoft.VisualStudio.Web.Host.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\MSTest.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Publicize.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTAgent.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTAgent32.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTAgent32_35.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTAgent32_40.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTAgent_35.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTAgent_40.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTDCAgent.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\QTDCAgent32.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\T4VSHostProcess.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\TextTransform.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\UserControlTestContainer.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\vb7to8.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VSFinalizer.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VSHiveStub.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\vshost-clr2.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\vshost.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\vshost32-clr2.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\vshost32.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VSInitializer.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VSIXInstaller.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VSLaunchBrowser.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\vsn.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VSWebHandler.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\Asal\TokenService\Microsoft.Asal.TokenService.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Linux\shellexec.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Linux.TestAdapter\shellexec.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools\fsc.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools\fscAnyCpu.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools\fsi.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools\fsiAnyCpu.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\IntelliTrace\IntelliTrace.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\JSDiagnostics\Debugger\JavaScriptDebugAdapterBridge.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\shellexec.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\WSLInstallServer.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.Build.Tasks.Console.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\NuGet\Plugins\CredentialProvider.Microsoft\CredentialProvider.Microsoft.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\BuildNotificationApp.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\EndTask.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TFSBuild.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TfsDeleteProject.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TFSSecurity.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\witadmin.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git\mingw64\bin\git-credential-manager.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\Extensions\dump\DumpMinitool.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\Extensions\dump\DumpMinitool.x86.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHostNetFramework\datacollector.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHostNetFramework\testhost.net47.x86.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHostNetFramework\testhost.net471.x86.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHostNetFramework\testhost.net472.x86.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHostNetFramework\testhost.net48.x86.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow\VsTest\TestHostNetFramework\testhost.x86.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\LanguageServices\InteractiveHost\Desktop\InteractiveHost32.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\Windows.Forms\FxDesignToolsServer\x86\FxDesignToolsServer.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Graphics\Debugger\EnableGraphicsTools.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\SQLDB\DAC\DacUnpack.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\SQLDB\DAC\SqlPackage.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web Tools\Languages\Microsoft.WebTools.Languages.LanguageServer.Host.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web Tools\ProjectSystem\VSIISExeLauncher.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\datacollector.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTAgent.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTAgent32.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTAgent32_35.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTAgent32_40.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTAgent_35.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTAgent_40.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTDCAgent.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\QTDCAgent32.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\SettingsMigrator.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net47.x86.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net471.x86.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net472.x86.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.net48.x86.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\testhost.x86.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\vstest.console.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\TestPlatform\Extensions\VideoRecorder\VSTestVideoRecorder.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Remote Debugger\Appx\AppxDebugSysTray.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\SurfaceProcess\Wpf\Framework\x86\WpfSurface.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\ConnectionManager.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.Host.AnyCPU.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.LiveUnitTesting.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.RoslynCodeAnalysisService.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.RoslynCodeAnalysisServiceS.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.SettingsHost.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.TestWindowStoreHost.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.ThreadedWaitDialog.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.VSDetouredHost.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.DataWarehouseHost.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuildTaskHost.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Roslyn\csc.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Roslyn\csi.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Roslyn\vbc.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Roslyn\VBCSCompiler.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\TeamTest\Publicize.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Team Tools\DiagnosticsHub\Collector\VSDiagnostics.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Team Tools\Performance Tools\VSPerfReport.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\Team Tools\Static Analysis Tools\FxCop\FxCopCmd.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\vctip.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\xdcmake.exe,True,MSCOREE.DLL
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\vctip.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\xdcmake.exe,True,MSCOREE.DLL
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\vctip.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\xdcmake.exe,True,MSCOREE.DLL
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\vctip.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\xdcmake.exe,True,MSCOREE.DLL
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\Hostx64\x64\vctip.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\Hostx64\x64\xdcmake.exe,True,MSCOREE.DLL
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\Hostx64\x86\vctip.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\Hostx64\x86\xdcmake.exe,True,MSCOREE.DLL
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\Hostx86\x64\vctip.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\Hostx86\x64\xdcmake.exe,True,MSCOREE.DLL
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\Hostx86\x86\vctip.exe,True,mscoree.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\Hostx86\x86\xdcmake.exe,True,MSCOREE.DLL
+C:\Program Files\SentinelOne\Sentinel Agent 24.2.3.471\Tools\LogCollector.exe,True,mscoree.dll
+C:\Program Files\WinCompose\wincompose.exe,True,mscoree.dll
+C:\Program Files (x86)\IIS\Microsoft Web Deploy V3\msdeploy.exe,True,mscoree.dll
+C:\Program Files (x86)\IIS Express\IisExpressAdminCmd.exe,True,mscoree.dll
+C:\Program Files (x86)\IIS Express\iisexpresstray.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Intune Management Extension\AgentExecutor.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Intune Management Extension\ClientCertCheck.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Intune Management Extension\ClientHealthEval.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Intune Management Extension\ImeUI.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Intune Management Extension\Microsoft.Management.Clients.CopyAgentCatalog.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Intune Management Extension\Microsoft.Management.Services.IntuneWindowsAgent.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Intune Management Extension\SensorLogonTask.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\ClickOnce Bootstrapper\Engine\Launcher.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\al.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\aspnet_intern.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\aspnet_merge.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\AxImp.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\CorFlags.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\disco.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\FUSLOGVW.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\gacutil.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\ildasm.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\lc.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\mage.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\mageui.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\mgmtclassgen.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\mpgo.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\MSBuildTaskHost.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\PEVerify.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\ResGen.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SecAnnotate.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\sgen.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\sn.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SqlMetal.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\StoreAdm.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SvcConfigEditor.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SvcTraceViewer.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SvcUtil.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\TlbExp.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\TlbImp.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\WCA.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\WFC.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\WinMDExp.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\WinRes.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\wsdl.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\xsd.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\xsltc.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\al.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\CorFlags.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\FUSLOGVW.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\gacutil.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\ildasm.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\PEVerify.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\sn.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\feedback.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\InstallCleanup.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\Microsoft.VisualStudio.Setup.ToastNotification.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\VSInstallerElevationService.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.windows.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installershell.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_layout.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSHiveStub.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXAutoUpdate.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXConfigurationUpdater.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXInstaller.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2022\VSPerfASPNetCmd.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Entity Framework Tools\NuGet Packages\EntityFramework.5.0.0\tools\migrate.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\Entity Framework Tools\NuGet Packages\EntityFramework.6.2.0\tools\migrate.exe,True,mscoree.dll
+C:\Program Files (x86)\Microsoft Visual Studio\Shared\VsWebProtocolSelector\Microsoft.VisualStudio.VsWebProtocolSelector.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm\filetypeverifier.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm\mbidgenerator.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\ComparePackage.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\filetypeverifier.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\ftquery.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\isxps.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\mbidgenerator.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\PackageEditor.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\StoreUploader.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\vsdiagview.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\WinAppDeployCmd.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\wsutil.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\xpsconverter.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\AccChecker\AccCheckConsole.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\AccChecker\acccheckui.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\UIAVerify\VisualUIAVerifyNative.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\filetypeverifier.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\mbidgenerator.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\vsdiagview.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\WinAppDeployCmd.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\ComparePackage.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\filetypeverifier.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\ftquery.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\isxps.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\mbidgenerator.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\PackageEditor.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\StoreUploader.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\vsdiagview.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\WinAppDeployCmd.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\wsdcodegen.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\wsutil.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\xpsconverter.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\AccChecker\AccCheckConsole.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\AccChecker\acccheckui.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\UIAVerify\VisualUIAVerifyNative.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\Testing\Runtimes\TAEF\TE.ManagedHost.exe,True,mscoree.dll
+C:\Program Files (x86)\Windows Kits\10\Testing\Runtimes\TAEF\x64\TE.ManagedHost.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\candle.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\dark.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\heat.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\insignia.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\light.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\lit.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\lux.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\melt.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\nit.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\pyro.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\shine.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\smoke.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\torch.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\bin\WixCop.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\SDK\DocCompiler.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\SDK\MakeSfxCA.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\SDK\MsgGen.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\SDK\XsdGen.exe,True,mscoree.dll
+C:\Program Files (x86)\WiX Toolset v3.14\SDK\XsdStitch.exe,True,mscoree.dll
+C:\ProgramData\chocolatey\choco.exe,True,mscoree.dll
+C:\ProgramData\chocolatey\bin\choco.exe,True,mscoree.dll
+C:\ProgramData\chocolatey\redirects\choco.exe,True,mscoree.dll
+C:\ProgramData\chocolatey\tools\checksum.exe,True,mscoree.dll
+C:\ProgramData\chocolatey\tools\shimgen.exe,True,mscoree.dll
+"C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Build.UnGAC,version=17.12.12.2457101,chip=neutral,language=neutral\Microsoft.Build.UnGAC.exe",True,mscoree.dll
+"C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.Graphics.EnableTools,version=17.12.35410.122\EnableGraphicsTools.exe",True,mscoree.dll
+"C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.VisualStudio.Initializer,version=17.12.35410.122\VSInitializer.exe",True,mscoree.dll
+"C:\ProgramData\Microsoft\VisualStudio\Packages\Win11SDK_10.0.22621,version=10.0.22621.6,productarch=neutral\WinSdkInstaller.exe",True,mscoree.dll
+"C:\ProgramData\Microsoft\VisualStudio\Packages\Win11SDK_WindowsPerformanceToolkit,version=10.0.22621.3,productarch=neutral\WinSdkInstaller.exe",True,mscoree.dll
+C:\ProgramData\Microsoft\VisualStudio\SetupWMI\MofCompiler.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\entityframework\6.4.4\tools\net40\any\ef6.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\entityframework\6.4.4\tools\net40\win-x86\ef6.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\entityframework\6.4.4\tools\net45\any\ef6.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\entityframework\6.4.4\tools\net45\win-x86\ef6.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\microsoft.codedom.providers.dotnetcompilerplatform\2.0.1\tools\Roslyn45\csc.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\microsoft.codedom.providers.dotnetcompilerplatform\2.0.1\tools\Roslyn45\csi.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\microsoft.codedom.providers.dotnetcompilerplatform\2.0.1\tools\Roslyn45\vbc.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\microsoft.codedom.providers.dotnetcompilerplatform\2.0.1\tools\Roslyn45\VBCSCompiler.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\microsoft.codedom.providers.dotnetcompilerplatform\2.0.1\tools\RoslynLatest\csc.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\microsoft.codedom.providers.dotnetcompilerplatform\2.0.1\tools\RoslynLatest\csi.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\microsoft.codedom.providers.dotnetcompilerplatform\2.0.1\tools\RoslynLatest\vbc.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\microsoft.codedom.providers.dotnetcompilerplatform\2.0.1\tools\RoslynLatest\VBCSCompiler.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\microsoft.net.compilers.toolset\4.8.0\tasks\net472\csc.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\microsoft.net.compilers.toolset\4.8.0\tasks\net472\csi.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\microsoft.net.compilers.toolset\4.8.0\tasks\net472\vbc.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\microsoft.net.compilers.toolset\4.8.0\tasks\net472\VBCSCompiler.exe,True,mscoree.dll
+C:\Users\Damien Mehala\.nuget\packages\webgrease\1.6.0\tools\WG.EXE,True,mscoree.dll
+C:\Users\Damien Mehala\AppData\Local\AzureFunctionsTools\Releases\1.13.2\cli_x64\func.exe,True,mscoree.dll
+C:\Users\Damien Mehala\AppData\Local\AzureFunctionsTools\Releases\1.13.2\cli_x64\NuGet.exe,True,mscoree.dll
+C:\Windows\assembly\GAC_32\MSBuild\3.5.0.0__b03f5f7f11d50a3a\MSBuild.exe,True,mscoree.dll
+C:\Windows\assembly\GAC_MSIL\ComSvcConfig\3.0.0.0__b03f5f7f11d50a3a\ComSvcConfig.exe,True,mscoree.dll
+C:\Windows\assembly\GAC_MSIL\dfsvc\2.0.0.0__b03f5f7f11d50a3a\dfsvc.exe,True,mscoree.dll
+C:\Windows\assembly\GAC_MSIL\HyperV-UX-UI-VMCreate\10.0.26100.1591__31bf3856ad364e35\VMCreate.exe,True,mscoree.dll
+C:\Windows\assembly\GAC_MSIL\HyperV-UX-UI-VMImport\10.0.26100.1__31bf3856ad364e35\VMImport.exe,True,mscoree.dll
+C:\Windows\assembly\GAC_MSIL\PresentationFontCache\3.0.0.0__31bf3856ad364e35\PresentationFontCache.exe,True,mscoree.dll
+C:\Windows\assembly\GAC_MSIL\SMSvcHost\3.0.0.0__b03f5f7f11d50a3a\SMSvcHost.exe,True,mscoree.dll
+C:\Windows\assembly\GAC_MSIL\WsatConfig\3.0.0.0__b03f5f7f11d50a3a\WsatConfig.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\assembly\GAC_32\MSBuild\v4.0_4.0.0.0__b03f5f7f11d50a3a\MSBuild.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\ComSvcConfig\v4.0_4.0.0.0__b03f5f7f11d50a3a\ComSvcConfig.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\dfsvc\v4.0_4.0.0.0__b03f5f7f11d50a3a\dfsvc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\InspectVhdDialog\v4.0_10.0.0.0__31bf3856ad364e35\InspectVhdDialog.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.Workflow.Compiler\v4.0_4.0.0.0__31bf3856ad364e35\Microsoft.Workflow.Compiler.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\SMSvcHost\v4.0_4.0.0.0__b03f5f7f11d50a3a\SMSvcHost.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\WsatConfig\v4.0_4.0.0.0__b03f5f7f11d50a3a\WsatConfig.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\AppLaunch.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_compiler.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_regbrowsers.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_regsql.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_state.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\CasPol.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\csc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\dfsvc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\IEExec.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\ilasm.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\jsc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\MSBuild.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorsvw.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\ngen.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\RegAsm.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\RegSvcs.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\vbc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ComSvcConfig.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ServiceModelReg.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMSvcHost.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\WsatConfig.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v3.0\WPF\XamlViewer\XamlViewer_v0300.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v3.5\AddInProcess.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v3.5\AddInProcess32.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v3.5\AddInUtil.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v3.5\DataSvcUtil.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v3.5\EdmGen.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v3.5\vbc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AddInProcess.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AddInProcess32.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AddInUtil.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AppLaunch.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_compiler.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regbrowsers.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regsql.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_state.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\CasPol.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\ComSvcConfig.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\DataSvcUtil.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\dfsvc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\EdmGen.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\ilasm.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\jsc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Workflow.Compiler.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegSvcs.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\SMSvcHost.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\vbc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\WsatConfig.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\AppLaunch.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\aspnet_state.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\csc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\dfsvc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\IEExec.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\ilasm.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\jsc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\mscorsvw.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\ngen.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\vbc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\ComSvcConfig.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\ServiceModelReg.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\SMSvcHost.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\WsatConfig.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\XamlViewer\XamlViewer_v0300.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v3.5\AddInProcess.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v3.5\AddInProcess32.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v3.5\AddInUtil.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v3.5\DataSvcUtil.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v3.5\EdmGen.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v3.5\vbc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\AddInProcess.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\AddInProcess32.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\AddInUtil.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\AppLaunch.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet_state.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ComSvcConfig.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\DataSvcUtil.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\dfsvc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\EdmGen.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ilasm.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\jsc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Workflow.Compiler.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorsvw.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngen.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\vbc.exe,True,mscoree.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\WsatConfig.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.26100.3323_none_6840e64f782417a8\ScriptRunner.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.3323_none_987a14a494f7c8cd\Microsoft.Uev.SyncController.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.3323_none_987a14a494f7c8cd\UevAgentPolicyGenerator.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.3323_none_987a14a494f7c8cd\UevAppMonitor.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.3323_none_987a14a494f7c8cd\UevTemplateBaselineGenerator.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.3323_none_987a14a494f7c8cd\UevTemplateConfigItemGenerator.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\amd64_microsoft-windows-filehistory-ui_31bf3856ad364e35_10.0.26100.3470_none_e9fb67ae3b058ae9\FileHistory.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\amd64_microsoft-windows-ie-iediag_31bf3856ad364e35_11.0.26100.3470_none_f66126026ac66761\iediagcmd.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\amd64_microsoft-windows-iis-adminservice_31bf3856ad364e35_10.0.26100.1882_none_f6065e78a7dcfc7f\WMSvc.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\amd64_microsoft-windows-iis-managementconsole_31bf3856ad364e35_10.0.26100.1882_none_237211b16b37a723\InetMgr.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\amd64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.26100.3323_none_04e46de8b22fbf15\powershell.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\amd64_multipoint-logcollector_31bf3856ad364e35_10.0.26100.1882_none_3bc0f3ed4b4269b5\LogCollector.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\amd64_multipoint-wmsmanager_31bf3856ad364e35_10.0.26100.1882_none_b7ad430638460a0e\WmsManager.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\msil_hyperv-ux-ui-vmcreate_31bf3856ad364e35_10.0.26100.3323_none_7315df8f1b0c022a\VMCreate.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\msil_multipoint-wmsdashboard_31bf3856ad364e35_10.0.26100.1882_none_ebcaeb1d9bfa1466\WmsDashboard.exe,True,mscoree.dll
+C:\Windows\SoftwareDistribution\Download\b3c7474bb0a3ce08729dff37f38bd818\Package_for_RollupFix~~amd64~~26100.3476.1.12\wow64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.26100.3323_none_0f39183ae6908110\powershell.exe,True,mscoree.dll
+C:\Windows\System32\FileHistory.exe,True,mscoree.dll
+C:\Windows\System32\MCU.exe,True,mscoree.dll
+C:\Windows\System32\Microsoft.Uev.SyncController.exe,True,mscoree.dll
+C:\Windows\System32\PresentationHost.exe,True,mscoree.dll
+C:\Windows\System32\ScriptRunner.exe,True,mscoree.dll
+C:\Windows\System32\TsWpfWrp.exe,True,mscoree.dll
+C:\Windows\System32\UevAgentPolicyGenerator.exe,True,mscoree.dll
+C:\Windows\System32\UevAppMonitor.exe,True,mscoree.dll
+C:\Windows\System32\UevTemplateBaselineGenerator.exe,True,mscoree.dll
+C:\Windows\System32\UevTemplateConfigItemGenerator.exe,True,mscoree.dll
+C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_dda6aa8048ab5a13\MCU.exe,True,mscoree.dll
+C:\Windows\System32\inetsrv\InetMgr.exe,True,mscoree.dll
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,True,mscoree.dll
+C:\Windows\SystemApps\Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy\SecureAssessmentBrowser.exe,True,mscoree.dll
+C:\Windows\SystemApps\Microsoft.XboxGameCallableUI_cw5n1h2txyewy\XBox.TCUI.exe,True,mscoree.dll
+C:\Windows\SysWOW64\PresentationHost.exe,True,mscoree.dll
+C:\Windows\SysWOW64\TsWpfWrp.exe,True,mscoree.dll
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,True,mscoree.dll
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell_ise.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_addinprocess32_b77a5c561934e089_10.0.26100.1_none_7e03589d55737e66\AddInProcess32.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_addinprocess32_b77a5c561934e089_4.0.15912.0_none_fcd20f3bc43afbcc\AddInProcess32.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_addinprocess_b77a5c561934e089_4.0.15912.0_none_769e30e9239830f5\AddInProcess.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_addinutil_b77a5c561934e089_4.0.15912.0_none_feb4ea54186c4c66\AddInUtil.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_comsvcconfig_b03f5f7f11d50a3a_4.0.15912.0_none_48717892bcec72f7\ComSvcConfig.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_datasvcutil_b77a5c561934e089_4.0.15912.0_none_5cfe50bb9b6405ea\DataSvcUtil.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_dfsvc_b03f5f7f11d50a3a_4.0.15912.0_none_c2b647ba71508734\dfsvc.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_edmgen_b77a5c561934e089_4.0.15912.0_none_b064199c91afa844\EdmGen.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_jsc_b03f5f7f11d50a3a_4.0.15912.0_none_04bcf928bfc9ab50\jsc.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.26100.1591_none_68327241782dd35b\ScriptRunner.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.26100.3323_none_6840e64f782417a8\ScriptRunner.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.1591_none_986ba09695018480\Microsoft.Uev.SyncController.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.1591_none_986ba09695018480\UevAgentPolicyGenerator.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.1591_none_986ba09695018480\UevAppMonitor.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.1591_none_986ba09695018480\UevTemplateBaselineGenerator.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.1591_none_986ba09695018480\UevTemplateConfigItemGenerator.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.3323_none_987a14a494f7c8cd\Microsoft.Uev.SyncController.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.3323_none_987a14a494f7c8cd\UevAgentPolicyGenerator.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.3323_none_987a14a494f7c8cd\UevAppMonitor.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.3323_none_987a14a494f7c8cd\UevTemplateBaselineGenerator.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.26100.3323_none_987a14a494f7c8cd\UevTemplateConfigItemGenerator.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-filehistory-ui_31bf3856ad364e35_10.0.26100.1591_none_e9f27dc23b0bf8db\FileHistory.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-filehistory-ui_31bf3856ad364e35_10.0.26100.3470_none_e9fb67ae3b058ae9\FileHistory.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-ie-iediag_31bf3856ad364e35_11.0.26100.1591_none_f6583c166accd553\iediagcmd.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-ie-iediag_31bf3856ad364e35_11.0.26100.3470_none_f66126026ac66761\iediagcmd.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-iis-adminservice_31bf3856ad364e35_10.0.26100.1882_none_f6065e78a7dcfc7f\WMSvc.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-iis-managementconsole_31bf3856ad364e35_10.0.26100.1591_none_239398876b1e5306\InetMgr.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-iis-managementconsole_31bf3856ad364e35_10.0.26100.1882_none_237211b16b37a723\InetMgr.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-m..nt-browser.appxmain_31bf3856ad364e35_10.0.26100.1591_none_97b3f064acd38654\SecureAssessmentBrowser.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-m..nt-browser.appxmain_31bf3856ad364e35_10.0.26100.3323_none_97c26472acc9caa1\SecureAssessmentBrowser.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.26100.1_none_6609a7146abf3e09\powershell.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.26100.3323_none_04e46de8b22fbf15\powershell.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft-xbox-gamecallableui.appxmain_31bf3856ad364e35_10.0.26100.1150_none_bf072f41973cb733\XBox.TCUI.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_microsoft.workflow.compiler_31bf3856ad364e35_4.0.15912.0_none_ed62602ac24399fc\Microsoft.Workflow.Compiler.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_multipoint-logcollector_31bf3856ad364e35_10.0.26100.1882_none_3bc0f3ed4b4269b5\LogCollector.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_multipoint-wmsmanager_31bf3856ad364e35_10.0.26100.1591_none_b7cec9dc382cb5f1\WmsManager.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_multipoint-wmsmanager_31bf3856ad364e35_10.0.26100.1882_none_b7ad430638460a0e\WmsManager.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx-applaunch_exe_b03f5f7f11d50a3a_10.0.26100.1_none_21c930510a00a526\AppLaunch.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx-aspnet_state_exe_b03f5f7f11d50a3a_10.0.26100.1_none_ddaf5dc661e91ea5\aspnet_state.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx-clr_ilasm_exe_b03f5f7f11d50a3a_10.0.26100.1_none_5fa297562cdb430e\ilasm.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx-csharp_compiler_csc_b03f5f7f11d50a3a_10.0.26100.1_none_5b0b14d6cc274cc8\csc.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx-dfsvc_b03f5f7f11d50a3a_10.0.26100.1_none_6694132cb1b96a0b\dfsvc.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx-ieexec_b03f5f7f11d50a3a_10.0.26100.1_none_4db4eeca2cb94664\IEExec.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx-jsc_b03f5f7f11d50a3a_10.0.26100.1_none_e49f43adae7337af\jsc.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx-mscorsvw_exe_b03f5f7f11d50a3a_10.0.26100.1_none_7c88976e8785ad0a\mscorsvw.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx-ngen_exe_b03f5f7f11d50a3a_10.0.26100.1_none_d44f53dce9b09eb4\ngen.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx-vb_compiler_b03f5f7f11d50a3a_10.0.26100.1_none_9c81814c454e23f1\vbc.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx-vb_compiler_b03f5f7f11d50a3a_10.0.27000.360_none_db37a096a5a2d301\vbc.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx35linq-addinprocess_31bf3856ad364e35_10.0.26100.1_none_2d8ad328b5479b73\AddInProcess.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx35linq-addinutil_31bf3856ad364e35_10.0.26100.1_none_c811e1884be875a8\AddInUtil.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx35linq-datasvcutil_31bf3856ad364e35_10.0.26100.1_none_8c4a868d0582d524\DataSvcUtil.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx35linq-edmgen_31bf3856ad364e35_10.0.26100.1_none_ab6fa072a46b2ede\EdmGen.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx35linq-vb_compiler_orcas_31bf3856ad364e35_10.0.26100.1_none_92f5fcf757ed42ed\vbc.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx35linq-vb_compiler_orcas_31bf3856ad364e35_10.0.27000.360_none_1f384179f4f31b5d\vbc.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx4-applaunch_exe_b03f5f7f11d50a3a_4.0.15912.0_none_aa82bd90bcd50b03\AppLaunch.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx4-aspnet_state_exe_b03f5f7f11d50a3a_4.0.15912.0_none_61e02e661eddd7ec\aspnet_state.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx4-ilasm_exe_b03f5f7f11d50a3a_4.0.15912.0_none_61c655cc264adc4b\ilasm.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx4-ilasm_exe_b03f5f7f11d50a3a_4.0.15912.146_none_57dbe416963fa154\ilasm.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx4-mscorsvw_exe_b03f5f7f11d50a3a_4.0.15912.0_none_7f1c6fee223c55e3\mscorsvw.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx4-mscorsvw_exe_b03f5f7f11d50a3a_4.0.15912.100_none_752bfd0c9236819e\mscorsvw.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx4-ngen_exe_b03f5f7f11d50a3a_4.0.15912.0_none_b4e0bc75d19eec35\ngen.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx4-ngen_exe_b03f5f7f11d50a3a_4.0.15912.100_none_aaf04994419917f0\ngen.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx4-vbc_exe_b03f5f7f11d50a3a_4.0.15912.0_none_98d146a6029264ee\vbc.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_netfx4-vbc_exe_b03f5f7f11d50a3a_4.0.15912.355_none_8ee5d84e72880b3f\vbc.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_smsvchost_b03f5f7f11d50a3a_4.0.15912.0_none_6f42c7c83cc3cb06\SMSvcHost.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_wcf-comsvcconfig_b03f5f7f11d50a3a_10.0.26100.1_none_22beb1f66a9bdcd9\ComSvcConfig.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_wcf-servicemodelreg_b03f5f7f11d50a3a_10.0.26100.1_none_10dfbabc1234526e\ServiceModelReg.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_wcf-smsvchost_b03f5f7f11d50a3a_10.0.26100.1_none_97a994ca02046ab4\SMSvcHost.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_wcf-wsatconfig_b03f5f7f11d50a3a_10.0.26100.1_none_a7b1b2421ae9ec27\WsatConfig.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_wpf-presentationfontcache_31bf3856ad364e35_10.0.26100.1_none_028d3f2f7abaac3f\PresentationFontCache.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_wpf-presentationhostexe_31bf3856ad364e35_10.0.26100.1150_none_0bdb83c7d007c6bc\PresentationHost.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_wpf-terminalserverwpfwrapperexe_31bf3856ad364e35_10.0.26100.1_none_2152e7eb342c1e53\TsWpfWrp.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_wpf-xamlviewer_31bf3856ad364e35_10.0.26100.1_none_5301f4e1e5797d14\XamlViewer_v0300.exe,True,mscoree.dll
+C:\Windows\WinSxS\amd64_wsatconfig_b03f5f7f11d50a3a_4.0.15912.0_none_65c6ab619fd35783\WsatConfig.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_addinprocess_b77a5c561934e089_10.0.26100.1_none_98735c9942cd7928\AddInProcess.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_addinutil_b77a5c561934e089_10.0.26100.1_none_b94f0eb8a758822f\AddInUtil.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_comsvcconfig_b03f5f7f11d50a3a_10.0.26100.1_none_8fc81fd68823646b\ComSvcConfig.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_datasvcutil_b77a5c561934e089_10.0.26100.1_none_6ea9e81d0ca2fc8b\DataSvcUtil.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_dfsvc_b03f5f7f11d50a3a_10.0.26100.1_none_0a0ceefe3c8778a8\dfsvc.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_edmgen_b77a5c561934e089_10.0.26100.1_none_6cad1ce863fa4761\EdmGen.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_hyperv-ux-ui-vmcreate_31bf3856ad364e35_10.0.26100.1591_none_73076b811b15bddd\VMCreate.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_hyperv-ux-ui-vmcreate_31bf3856ad364e35_10.0.26100.3323_none_7315df8f1b0c022a\VMCreate.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_hyperv-ux-ui-vmimport_31bf3856ad364e35_10.0.26100.1_none_22104f68acb76d7f\VMImport.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_ieexec_b03f5f7f11d50a3a_10.0.26100.1_none_231fe8bbbb362efd\IEExec.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_inspectvhddialog_31bf3856ad364e35_10.0.26100.1_none_131779f41084e8ab\InspectVhdDialog.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_jsc_b03f5f7f11d50a3a_10.0.26100.1_none_4c13a06c8b009cc4\jsc.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_multipoint-wmsdashboard_31bf3856ad364e35_10.0.26100.1882_none_ebcaeb1d9bfa1466\WmsDashboard.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_presentationfontcache_31bf3856ad364e35_10.0.26100.1_none_ae9fddaa60638ed8\PresentationFontCache.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_servicemodelreg_b03f5f7f11d50a3a_10.0.26100.1_none_ef0c64fcaf8f69dc\ServiceModelReg.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_smsvchost_b03f5f7f11d50a3a_10.0.26100.1_none_b6996f0c07fabc7a\SMSvcHost.exe,True,mscoree.dll
+C:\Windows\WinSxS\msil_wsatconfig_b03f5f7f11d50a3a_10.0.26100.1_none_ad1d52a56b0a48f7\WsatConfig.exe,True,mscoree.dll
+C:\Windows\WinSxS\wow64_aspnet_compiler_b03f5f7f11d50a3a_4.0.15912.0_none_9f7e48f0022da658\aspnet_compiler.exe,True,mscoree.dll
+C:\Windows\WinSxS\wow64_aspnet_regbrowsers_b03f5f7f11d50a3a_4.0.15912.0_none_901f30f8c2af7d1e\aspnet_regbrowsers.exe,True,mscoree.dll
+C:\Windows\WinSxS\wow64_aspnet_regbrowsers_b03f5f7f11d50a3a_4.0.15912.355_none_8633c2a132a5236f\aspnet_regbrowsers.exe,True,mscoree.dll
+C:\Windows\WinSxS\wow64_aspnet_regsql_b03f5f7f11d50a3a_4.0.15912.0_none_d691427f65d1362f\aspnet_regsql.exe,True,mscoree.dll
+C:\Windows\WinSxS\wow64_aspnet_regsql_b03f5f7f11d50a3a_4.0.15912.355_none_cca5d427d5c6dc80\aspnet_regsql.exe,True,mscoree.dll
+C:\Windows\WinSxS\wow64_caspol_b03f5f7f11d50a3a_4.0.15912.0_none_f28dd746997c1837\CasPol.exe,True,mscoree.dll
+C:\Windows\WinSxS\wow64_installutil_b03f5f7f11d50a3a_4.0.15912.0_none_022ec4a0cabdc41e\InstallUtil.exe,True,mscoree.dll
+C:\Windows\WinSxS\wow64_jsc_b03f5f7f11d50a3a_4.0.15912.0_none_2e8b40428114406d\jsc.exe,True,mscoree.dll
+C:\Windows\WinSxS\wow64_microsoft-windows-gpowershell-exe_31bf3856ad364e35_10.0.26100.1591_none_dea5c51b861cb734\powershell_ise.exe,True,mscoree.dll
+C:\Windows\WinSxS\wow64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.26100.1_none_705e51669f200004\powershell.exe,True,mscoree.dll
+C:\Windows\WinSxS\wow64_microsoft-windows-powershell-exe_31bf3856ad364e35_10.0.26100.3323_none_0f39183ae6908110\powershell.exe,True,mscoree.dll
+C:\Windows\WinSxS\wow64_msbuild_b03f5f7f11d50a3a_4.0.15912.0_none_07ea43e35ad4fd3b\MSBuild.exe,True,mscoree.dll
+C:\Windows\WinSxS\wow64_regasm_b03f5f7f11d50a3a_4.0.15912.0_none_9dcb4fe8bf21aec2\RegAsm.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_addinprocess32_b77a5c561934e089_10.0.26100.1_none_21e4bd199d160d30\AddInProcess32.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_addinprocess32_b77a5c561934e089_4.0.15912.0_none_447f4612d8b724d2\AddInProcess32.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_aspnet_compiler_b03f5f7f11d50a3a_10.0.26100.1_none_bd06c5e20c19d210\aspnet_compiler.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_aspnet_regbrowsers_b03f5f7f11d50a3a_10.0.26100.1_none_ada7adeacc9ba8d6\aspnet_regbrowsers.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_aspnet_regbrowsers_b03f5f7f11d50a3a_10.0.27000.360_none_ec5dcd352cf057e6\aspnet_regbrowsers.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_aspnet_regsql_b03f5f7f11d50a3a_10.0.26100.1_none_f419bf716fbd61e7\aspnet_regsql.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_aspnet_regsql_b03f5f7f11d50a3a_10.0.27000.360_none_32cfdebbd01210f7\aspnet_regsql.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_caspol_b03f5f7f11d50a3a_10.0.26100.1_none_10165438a36843ef\CasPol.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_installutil_b03f5f7f11d50a3a_10.0.26100.1_none_1fb74192d4a9efd6\InstallUtil.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_msbuild_b03f5f7f11d50a3a_10.0.26100.1_none_2572c0d564c128f3\MSBuild.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_msbuild_b03f5f7f11d50a3a_3.5.26100.1_none_3b94e354cf3fab21\MSBuild.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx-applaunch_exe_b03f5f7f11d50a3a_10.0.26100.1_none_697667281e7cce2c\AppLaunch.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx-aspnet_state_exe_b03f5f7f11d50a3a_10.0.26100.1_none_255c949d766547ab\aspnet_state.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx-clr_ilasm_exe_b03f5f7f11d50a3a_10.0.26100.1_none_a74fce2d41576c14\ilasm.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx-csharp_compiler_csc_b03f5f7f11d50a3a_10.0.26100.1_none_a2b84bade0a375ce\csc.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx-mscorsvw_exe_b03f5f7f11d50a3a_10.0.26100.1_none_c435ce459c01d610\mscorsvw.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx-ngen_exe_b03f5f7f11d50a3a_10.0.26100.1_none_1bfc8ab3fe2cc7ba\ngen.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx-vb_compiler_b03f5f7f11d50a3a_10.0.26100.1_none_e42eb82359ca4cf7\vbc.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx-vb_compiler_b03f5f7f11d50a3a_10.0.27000.360_none_22e4d76dba1efc07\vbc.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx35linq-vb_compiler_orcas_31bf3856ad364e35_10.0.26100.1_none_36d761739f8fd1b7\vbc.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx35linq-vb_compiler_orcas_31bf3856ad364e35_10.0.27000.360_none_c319a5f63c95aa27\vbc.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx4-applaunch_exe_b03f5f7f11d50a3a_4.0.15912.0_none_f22ff467d1513409\AppLaunch.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx4-aspnet_state_exe_b03f5f7f11d50a3a_4.0.15912.0_none_a98d653d335a00f2\aspnet_state.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx4-ilasm_exe_b03f5f7f11d50a3a_4.0.15912.0_none_a9738ca33ac70551\ilasm.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx4-ilasm_exe_b03f5f7f11d50a3a_4.0.15912.146_none_9f891aedaabbca5a\ilasm.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx4-mscorsvw_exe_b03f5f7f11d50a3a_4.0.15912.0_none_c6c9a6c536b87ee9\mscorsvw.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx4-mscorsvw_exe_b03f5f7f11d50a3a_4.0.15912.100_none_bcd933e3a6b2aaa4\mscorsvw.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx4-ngentask_exe_b03f5f7f11d50a3a_4.0.15912.0_none_1d944b447accc0c6\ngentask.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx4-ngen_exe_b03f5f7f11d50a3a_4.0.15912.0_none_fc8df34ce61b153b\ngen.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx4-ngen_exe_b03f5f7f11d50a3a_4.0.15912.100_none_f29d806b561540f6\ngen.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx4-vbc_exe_b03f5f7f11d50a3a_4.0.15912.0_none_e07e7d7d170e8df4\vbc.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_netfx4-vbc_exe_b03f5f7f11d50a3a_4.0.15912.355_none_d6930f2587043445\vbc.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_regasm_b03f5f7f11d50a3a_10.0.26100.1_none_bb53ccdac90dda7a\RegAsm.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_regsvcs_b03f5f7f11d50a3a_10.0.26100.1_none_8e6ef7811b80d32a\RegSvcs.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_regsvcs_b03f5f7f11d50a3a_4.0.15912.0_none_8ec56a4c64c63b5b\RegSvcs.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_wpf-presentationhostexe_31bf3856ad364e35_10.0.26100.1_none_10c9402dd04d0788\PresentationHost.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_wpf-terminalserverwpfwrapperexe_31bf3856ad364e35_10.0.26100.1_none_c5344c677bcead1d\TsWpfWrp.exe,True,mscoree.dll
+C:\Windows\WinSxS\x86_wpf-xamlviewer_31bf3856ad364e35_10.0.26100.1_none_f6e3595e2d1c0bde\XamlViewer_v0300.exe,True,mscoree.dll
+C:\workspace\samples\samples\aspnet\HttpClient\TwitterSample\.nuget\nuget.exe,True,mscoree.dll
+C:\workspace\samples\samples\aspnet\HttpClient\TwitterSample\bin\Debug\TwitterSample.exe,True,mscoree.dll
+C:\workspace\samples\samples\aspnet\HttpClient\TwitterSample\obj\x86\Debug\TwitterSample.exe,True,mscoree.dll
+C:\workspace\samples\samples\aspnet\Identity\SQLMembership-Identity-OWIN\.nuget\NuGet.exe,True,mscoree.dll
+C:\workspace\samples\samples\aspnet\Identity\UniversalProviders-Identity-Migrations\.nuget\NuGet.exe,True,mscoree.dll
+C:\workspace\sandbox\aspnet-web-forms-sample\BoldBIEmbedSample\bin\roslyn\csc.exe,True,mscoree.dll
+C:\workspace\sandbox\aspnet-web-forms-sample\BoldBIEmbedSample\bin\roslyn\csi.exe,True,mscoree.dll
+C:\workspace\sandbox\aspnet-web-forms-sample\BoldBIEmbedSample\bin\roslyn\vbc.exe,True,mscoree.dll
+C:\workspace\sandbox\aspnet-web-forms-sample\BoldBIEmbedSample\bin\roslyn\VBCSCompiler.exe,True,mscoree.dll
+C:\workspace\sandbox\aspnet-web-forms-sample\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csc.exe,True,mscoree.dll
+C:\workspace\sandbox\aspnet-web-forms-sample\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csi.exe,True,mscoree.dll
+C:\workspace\sandbox\aspnet-web-forms-sample\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\vbc.exe,True,mscoree.dll
+C:\workspace\sandbox\aspnet-web-forms-sample\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\VBCSCompiler.exe,True,mscoree.dll
+C:\workspace\sandbox\aspnet-web-forms-sample\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csc.exe,True,mscoree.dll
+C:\workspace\sandbox\aspnet-web-forms-sample\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.exe,True,mscoree.dll
+C:\workspace\sandbox\aspnet-web-forms-sample\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.exe,True,mscoree.dll
+C:\workspace\sandbox\aspnet-web-forms-sample\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\VBCSCompiler.exe,True,mscoree.dll
+C:\workspace\sandbox\aspnet-web-forms-sample\packages\WebGrease.1.6.0\tools\WG.EXE,True,mscoree.dll
+C:\workspace\sandbox\WebFormsMigrationDemo\Source\packages\EntityFramework.6.1.3\tools\migrate.exe,True,mscoree.dll
+C:\workspace\sandbox\WebFormsMigrationDemo\Source\packages\Microsoft.Net.Compilers.1.0.0\tools\csc.exe,True,mscoree.dll
+C:\workspace\sandbox\WebFormsMigrationDemo\Source\packages\Microsoft.Net.Compilers.1.0.0\tools\vbc.exe,True,mscoree.dll
+C:\workspace\sandbox\WebFormsMigrationDemo\Source\packages\Microsoft.Net.Compilers.1.0.0\tools\VBCSCompiler.exe,True,mscoree.dll
+C:\workspace\sandbox\WebFormsMigrationDemo\Source\packages\WebGrease.1.5.2\tools\WG.exe,True,mscoree.dll
+C:\workspace\sandbox\WingtipToys\packages\EntityFramework.6.1.1\tools\migrate.exe,True,mscoree.dll
+C:\workspace\sandbox\WingtipToys\packages\WebGrease.1.5.2\tools\WG.exe,True,mscoree.dll
+C:\workspace\sandbox\WingtipToys-Demo\CSharp\packages\EntityFramework.6.4.4\tools\net40\any\ef6.exe,True,mscoree.dll
+C:\workspace\sandbox\WingtipToys-Demo\CSharp\packages\EntityFramework.6.4.4\tools\net40\win-x86\ef6.exe,True,mscoree.dll
+C:\workspace\sandbox\WingtipToys-Demo\CSharp\packages\EntityFramework.6.4.4\tools\net45\any\ef6.exe,True,mscoree.dll
+C:\workspace\sandbox\WingtipToys-Demo\CSharp\packages\EntityFramework.6.4.4\tools\net45\win-x86\ef6.exe,True,mscoree.dll
+C:\workspace\sandbox\WingtipToys-Demo\CSharp\packages\WebGrease.1.6.0\tools\WG.EXE,True,mscoree.dll
+C:\workspace\sandbox\WingtipToys-Demo\CSharp\WingtipToysCore\bin\roslyn\csc.exe,True,mscoree.dll
+C:\workspace\sandbox\WingtipToys-Demo\CSharp\WingtipToysCore\bin\roslyn\csi.exe,True,mscoree.dll
+C:\workspace\sandbox\WingtipToys-Demo\CSharp\WingtipToysCore\bin\roslyn\vbc.exe,True,mscoree.dll
+C:\workspace\sandbox\WingtipToys-Demo\CSharp\WingtipToysCore\bin\roslyn\VBCSCompiler.exe,True,mscoree.dll
