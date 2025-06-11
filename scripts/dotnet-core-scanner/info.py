@@ -1,46 +1,29 @@
 import os
-import argparse
 import struct
 import sys
 import pefile
 import multiprocessing
 import csv
 import typing
+from pathlib import Path
 
 def find_exes(drive: str) -> list[str]:
     exe_files = []
     for root, _, files in os.walk(drive, topdown=True):
         for file in files:
-            if file.lower().endswith('.exe'):
+            ext = Path(file.lower()).suffix
+            if not ext or ext in ('.exe', '.dll'):
                 exe_files.append(os.path.join(root, file))
 
     return exe_files
 
-# def is_dotnet_core(exe: str) -> bool:
-#     res = {"bin": exe, "dotnet_core": False, "module": None}
-#
-#     try:
-#         pe = pefile.PE(exe)
-#         pe.parse_data_directories()
-#
-#         dotnet_core_modules = (b"mscoree.dll", b"coreclr.dll", b"system.private.corelib.dll")
-#
-#         for entry in pe.DIRECTORY_ENTRY_IMPORT:
-#             if entry.dll.lower() in dotnet_core_modules:
-#                 # print(f"Found: {exe} ({entry.dll.decode('utf-8')})")
-#                 res["dotnet_core"] = True
-#                 res["module"] = entry.dll.decode('utf-8')
-#                 return res
-#     except:
-#         return res
-#
-#     # Use pe.OPTIONAL_HEADER.DATA_DIRECTORY?
-#
-#     return res
-
 def search_dotnet_in_PE(exe):
     try:
         pe = pefile.PE(exe)
+
+        if pe.is_dll():
+            if not hasattr(pe, 'DIRECTORY_ENTRY_EXPORT'):
+                return None
 
         # Ensure the PE file has .NET header
         com_header = pe.OPTIONAL_HEADER.DATA_DIRECTORY[14]  #< 14 = IMAGE_DIRECTORY_ENTRY_COM_DESCRIPTOR
@@ -86,18 +69,25 @@ def search_dotnet_core(exe):
         0x33, 0x2d, 0x39, 0x64, 0x66, 0x34, 0x2d, 0x31, 0x65, 0x37, 0x39, 0x36, 0x65, 0x39, 0x66, 0x31,
     ))
 
-    with open(exe, 'rb') as f:
-        # TODO: avoid reading the whole file
-        data = f.read(4098)
-        if data.find(bundle_header) != 1 or data.find(var_placeholder) != 1:
-            return True
-
-    return False
+    try:
+        with open(exe, 'rb') as f:
+            # TODO: avoid reading the whole file
+            data = f.read()
+            if data.find(bundle_header) != -1 or data.find(var_placeholder) != -1:
+                return True
+        return False
+    except:
+        return False
 
 def is_dotnet(exe: str) -> dict[str, typing.Any]:
     print(exe)
 
     res = {"bin": exe, "framework": "", "version": ""}
+
+    if search_dotnet_core(exe):
+        res["version"] = "NA"
+        res["framework"] = ".NET CORE"
+        return res
 
     dotnet_version = search_dotnet_in_PE(exe)
     if dotnet_version:
@@ -105,26 +95,22 @@ def is_dotnet(exe: str) -> dict[str, typing.Any]:
         res["framework"] = ".NET Framework"
         return res
 
-    if search_dotnet_core(exe):
-        res["version"] = ""
-        res["framework"] = ".NET CORE"
-
     return res
 
-# def main() -> int:
-#     exe = sys.argv[1]
-#     print(is_dotnet(exe))
-#     return 0
+def main2() -> int:
+    exe = sys.argv[1]
+    print(is_dotnet(exe))
+    return 0
 
 def main() -> int:
-    DEFAULT_DRIVE = "C:\\"
-    parser = argparse.ArgumentParser()
-    parser.add_argument("drive", help="Drive to search for exes", default=DEFAULT_DRIVE)
+    drive = "C:\\"
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument("--drive", help="Drive to search for exes", default=DEFAULT_DRIVE)
+    #
+    # args = parser.parse_args()
 
-    args = parser.parse_args()
-
-    print(f"Searching for exes in {args.drive}")
-    exes = find_exes(args.drive)
+    print(f"Searching for exes in {drive}")
+    exes = find_exes(drive)
 
     print("Inspecting exes found")
     res = []
@@ -132,13 +118,13 @@ def main() -> int:
         res = p.map(is_dotnet, exes)
 
     with open("dotnet_core_exes.csv", "w") as f:
-        writer = csv.DictWriter(f, fieldnames=('bin', 'dotnet_version'))
+        writer = csv.DictWriter(f, fieldnames=('bin', 'kind', 'version'))
         writer.writeheader()
         for item in res:
-            if not item["is_dotnet"]:
+            if not item["framework"]:
                 continue
 
-            writer.writerow({"bin": item["bin"], "dotnet_version": item["version"]})
+            writer.writerow({"bin": item["bin"], "kind": item["framework"], "version": item["version"]})
 
     return 0
 
