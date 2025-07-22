@@ -1,5 +1,1035 @@
 Image,Framework,Version
-F:\workspace\sandbox\lang-detection\scripts\dotnet-core-scanner-v2\dotnet-scanner\bin\Debug\net9.0\dotnet-scanner.dll,.NET Core,9.0
-F:\workspace\sandbox\lang-detection\scripts\dotnet-core-scanner-v2\dotnet-scanner\obj\Debug\net9.0\ref\dotnet-scanner.dll,.NET Core,9.0
-F:\workspace\sandbox\lang-detection\scripts\dotnet-core-scanner-v2\dotnet-scanner\obj\Debug\net9.0\refint\dotnet-scanner.dll,.NET Core,9.0
-F:\workspace\sandbox\lang-detection\scripts\dotnet-core-scanner-v2\dotnet-scanner\obj\Debug\net9.0\dotnet-scanner.dll,.NET Core,9.0
+C:\Windows\WinSxS\amd64_microsoft-windows-m..nt-browser.appxmain_31bf3856ad364e35_10.0.19041.5678_none_708f6365b21db632\SecureAssessmentBrowser.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-m..nt-browser.appxmain_31bf3856ad364e35_10.0.19041.5915_none_7069363db23b2518\SecureAssessmentBrowser.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-m..nt-browser.appxmain_31bf3856ad364e35_10.0.19041.6033_none_70ccb593b1f02632\SecureAssessmentBrowser.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_wcf-smsvchost_b03f5f7f11d50a3a_10.0.19200.110_none_11b0c321be81025e\SMSvcHost.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\wow64_aspnet_compiler_b03f5f7f11d50a3a_4.0.15805.0_none_9d9ad2580504a573\aspnet_compiler.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_aspnet_compiler_b03f5f7f11d50a3a_4.0.15840.3_none_9d95d60805091f79\aspnet_compiler.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_aspnet_regbrowsers_b03f5f7f11d50a3a_4.0.15805.0_none_8e3bba60c5867c39\aspnet_regbrowsers.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_aspnet_regbrowsers_b03f5f7f11d50a3a_4.0.15840.300_none_82ca0b4b043a1989\aspnet_regbrowsers.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_aspnet_regbrowsers_b03f5f7f11d50a3a_4.0.15840.3_none_8e36be10c58af63f\aspnet_regbrowsers.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_aspnet_regsql_b03f5f7f11d50a3a_4.0.15805.0_none_d4adcbe768a8354a\aspnet_regsql.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_aspnet_regsql_b03f5f7f11d50a3a_4.0.15840.300_none_c93c1cd1a75bd29a\aspnet_regsql.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_aspnet_regsql_b03f5f7f11d50a3a_4.0.15840.3_none_d4a8cf9768acaf50\aspnet_regsql.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_caspol_b03f5f7f11d50a3a_4.0.15805.0_none_f0aa60ae9c531752\CasPol.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_caspol_b03f5f7f11d50a3a_4.0.15840.3_none_f0a5645e9c579158\CasPol.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_microsoft-windows-gpowershell-exe_31bf3856ad364e35_10.0.19041.1_none_f8d6d7787573666b\powershell_ise.exe,.NET Framework,4.5.1
+C:\Windows\WinSxS\amd64_microsoft-windows-storage-diagnostics_31bf3856ad364e35_10.0.19041.1_none_2aa26221a7a3d549\stordiag.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-timezone-sync_31bf3856ad364e35_10.0.19041.1_none_4521fd67bfb25b6a\tzsync.exe,.NET Framework,4.6
+C:\Windows\WinSxS\amd64_microsoft-windows-filehistory-ui_31bf3856ad364e35_10.0.19041.3636_none_c2ca195f405995cd\FileHistory.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.19041.5794_none_4105710a7d7deb54\ScriptRunner.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-a..nagement-appvclient_31bf3856ad364e35_10.0.19041.5794_none_4105710a7d7deb54\AppVStreamingUX.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.5794_none_713e9f5f9a519c79\UevTemplateConfigItemGenerator.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.5794_none_713e9f5f9a519c79\UevTemplateBaselineGenerator.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.5794_none_713e9f5f9a519c79\UevAppMonitor.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.5794_none_713e9f5f9a519c79\UevAgentPolicyGenerator.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.5794_none_713e9f5f9a519c79\Microsoft.Uev.SyncController.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.5915_none_7120e66f9a692344\UevTemplateConfigItemGenerator.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.5915_none_7120e66f9a692344\UevTemplateBaselineGenerator.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.5915_none_7120e66f9a692344\UevAppMonitor.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.5915_none_7120e66f9a692344\UevAgentPolicyGenerator.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-appmanagement-uevagent_31bf3856ad364e35_10.0.19041.5915_none_7120e66f9a692344\Microsoft.Uev.SyncController.exe,.NET Framework,4.5
+C:\Windows\SystemApps\Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy\SecureAssessmentBrowser.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_wpf-terminalserverwpfwrapperexe_31bf3856ad364e35_10.0.19041.1_none_da504d0e6afd0a49\TsWpfWrp.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_wpf-xamlviewer_31bf3856ad364e35_10.0.19041.1_none_0bff5a051c4a690a\XamlViewer_v0300.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_wsatconfig_b03f5f7f11d50a3a_4.0.15805.0_none_63e334c9a2aa569e\WsatConfig.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_wsatconfig_b03f5f7f11d50a3a_4.0.15840.3_none_63de3879a2aed0a4\WsatConfig.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\msil_presentationfontcache_31bf3856ad364e35_10.0.19041.1_none_679d42cd97347ace\PresentationFontCache.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\msil_wsatconfig_b03f5f7f11d50a3a_10.0.19041.1_none_c9c647e748814b31\WsatConfig.exe,.NET Framework,v2.0.50727
+C:\Program Files\Docker\Docker\DockerCli.exe,.NET Framework,4.6.2
+C:\Program Files\Docker\Docker\Docker Desktop.exe,.NET Framework,4.6.2
+C:\Program Files\Docker\Docker\Docker Desktop Installer.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\packs\Microsoft.Android.Sdk.Windows\33.0.95\tools\generator.dll,.NET Framework,7.0
+C:\Program Files\dotnet\packs\Microsoft.Android.Sdk.Windows\33.0.95\tools\class-parse.dll,.NET Framework,7.0
+C:\Program Files\dotnet\packs\Microsoft.Android.Sdk.Windows\34.0.95\tools\generator.dll,.NET Framework,7.0
+C:\Program Files\dotnet\packs\Microsoft.Android.Sdk.Windows\34.0.95\tools\class-parse.dll,.NET Framework,7.0
+C:\Program Files\dotnet\packs\Microsoft.iOS.Sdk\15.4.447\tools\lib\bgen\bgen.dll,.NET Framework,6.0
+C:\Program Files\dotnet\packs\Microsoft.iOS.Sdk\15.4.447\tools\lib\mlaunch\mlaunch.app\Contents\MonoBundle\mlaunch.exe,.NET Framework,2.0
+C:\Program Files\dotnet\packs\Microsoft.iOS.Sdk\16.4.7142\tools\lib\bgen\bgen.dll,.NET Framework,7.0
+C:\Program Files\dotnet\packs\Microsoft.iOS.Sdk\16.4.7142\tools\lib\mlaunch\mlaunch.app\Contents\MonoBundle\.xamarin\osx-arm64\mlaunch.dll,.NET Framework,7.0
+C:\Program Files\dotnet\packs\Microsoft.iOS.Sdk\16.4.7142\tools\lib\mlaunch\mlaunch.app\Contents\MonoBundle\.xamarin\osx-x64\mlaunch.dll,.NET Framework,7.0
+C:\Program Files\dotnet\packs\Microsoft.iOS.Sdk\17.2.8053\tools\lib\bgen\bgen.dll,.NET Framework,8.0
+C:\Program Files\dotnet\packs\Microsoft.iOS.Sdk\17.2.8053\tools\lib\mlaunch\mlaunch.app\Contents\MonoBundle\.xamarin\osx-arm64\mlaunch.dll,.NET Framework,7.0
+C:\Program Files\dotnet\packs\Microsoft.iOS.Sdk\17.2.8053\tools\lib\mlaunch\mlaunch.app\Contents\MonoBundle\.xamarin\osx-x64\mlaunch.dll,.NET Framework,7.0
+C:\Program Files\dotnet\packs\Microsoft.MacCatalyst.Sdk\15.4.447\tools\lib\bgen\bgen.dll,.NET Framework,6.0
+C:\Program Files\dotnet\packs\Microsoft.MacCatalyst.Sdk\16.4.7142\tools\lib\bgen\bgen.dll,.NET Framework,7.0
+C:\Program Files\dotnet\packs\Microsoft.MacCatalyst.Sdk\17.2.8053\tools\lib\bgen\bgen.dll,.NET Framework,8.0
+C:\Program Files\dotnet\packs\Microsoft.macOS.Sdk\12.3.447\tools\lib\bgen\bgen.dll,.NET Framework,6.0
+C:\Windows\WinSxS\amd64_microsoft.workflow.compiler_31bf3856ad364e35_4.0.15840.3_none_eb79ed42c51f131d\Microsoft.Workflow.Compiler.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_msbuild_b03f5f7f11d50a3a_10.0.19041.1_none_fa6e7f402dbc0227\MSBuild.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_msbuild_b03f5f7f11d50a3a_3.5.19041.1_none_82a6b3679b68b331\MSBuild.exe,.NET Framework,v2.0.50727
+C:\Users\same_\.vscode\extensions\ms-dotnettools.csharp-2.84.19-win32-x64\.roslyn\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Amazon Drive\AmazonPhotos.exe,.NET Framework,4.8
+C:\Users\same_\AppData\Local\AzureFunctionsTools\Releases\1.13.2\cli_x64\func.exe,.NET Framework,4.7.1
+C:\Users\same_\AppData\Local\AzureFunctionsTools\Releases\2.60.0\cli_x64\Microsoft.Azure.WebJobs.Script.WebHost.dll,.NET Framework,2.2
+C:\Users\same_\AppData\Local\AzureFunctionsTools\Releases\2.60.0\cli_x64\func.dll,.NET Framework,2.2
+C:\Users\same_\AppData\Local\AzureFunctionsTools\Releases\3.33.0\cli_x64\Microsoft.Azure.WebJobs.Script.WebHost.dll,.NET Framework,3.1
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXInstaller.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\vs_layout.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\vs_installershell.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\vs_installer.windows.exe,.NET Framework,v2.0.50727
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\vs_installer.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\VSInstallerElevationService.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\setup.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\Microsoft.VisualStudio.Setup.ToastNotification.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\InstallCleanup.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\feedback.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\feedback.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\vlwh2doi\AndroidPlatformMAUI.7539777CD34B3A15AD74\AndroidSdkInstaller.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\vlwh2doi\AndroidPlatformMAUI2.39527689095EF6EF65C3\AndroidSdkInstaller.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\vlwh2doi\Microsoft.Build.UnGAC.843946F6F6E693C24240\Microsoft.Build.UnGAC.exe,.NET Framework,4.5
+C:\Users\same_\AppData\Local\Temp\vlwh2doi\Microsoft.VisualStudio.Initializer.F63F5D1284D4E8712206\VSInitializer.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\AmazonPhotosSetup.exe,.NET Framework,4.8
+C:\Windows\assembly\GAC_64\MSBuild\3.5.0.0__b03f5f7f11d50a3a\MSBuild.exe,.NET Framework,v2.0.50727
+C:\Windows\assembly\GAC_MSIL\PresentationFontCache\3.0.0.0__31bf3856ad364e35\PresentationFontCache.exe,.NET Framework,v2.0.50727
+C:\Windows\assembly\GAC_MSIL\WsatConfig\3.0.0.0__b03f5f7f11d50a3a\WsatConfig.exe,.NET Framework,v2.0.50727
+C:\Windows\assembly\NativeImages_v4.0.30319_32\aspnet_intern\cbe7ce603510d06beb6e857d9bd700c3\aspnet_intern.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\aspnet_intern\d11e0d6d209c6b90a70bc3cbf75ee570\aspnet_intern.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\aspnet_intern\ffed2c275968b2c4f9a21125dc403da6\aspnet_intern.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\aspnet_merge\5cd2b60400e41d34de5833f515a3533a\aspnet_merge.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\aspnet_merge\81e1ca16cc334f1df57bc1733512a869\aspnet_merge.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\ilc\8271b625ad3300ddfd5ee3d8163bf7d8\ilc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\ilc\8a9d8284e10b3cead8e8953107ed0942\ilc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\IntelliTrace\cb2b4f1e57010127197d266457627d9d\IntelliTrace.ni.exe,.NET Framework,v2.0.50727
+C:\Windows\assembly\NativeImages_v4.0.30319_32\InteractiveHost32\1a4ed851445e7f6dba2996f6b3900bca\InteractiveHost32.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\lc\20e4757553b53a62a07baf5d78c6f83c\lc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\lc\2fb59d1ac26b8e5ea9782c53792556be\lc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\lc\5f54774e732098205b5042bce4fd5978\lc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.Dee252aac#\3b4ef66a62ff56688a71dd28a55164c5\Microsoft.Developer.IdentityService.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\MSBuild\c8183de74a979b5a6091ccd9e8a6db01\MSBuild.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\MSTest\bb0685ebd8f2390afdcade63a6b21c0d\MSTest.ni.exe,.NET Framework,4.0
+C:\Windows\assembly\NativeImages_v4.0.30319_32\QTAgent32\8fcf6de8b7772f02560ecc507cd7ac18\QTAgent32.ni.exe,.NET Framework,4.5
+C:\Windows\assembly\NativeImages_v4.0.30319_32\QTAgent32_35\bc559144d64e5016ed417cb4b544dcd5\QTAgent32_35.ni.exe,.NET Framework,v2.0.50727
+C:\Windows\System32\AsusDownLoadLicense.exe,.NET Framework,4.6.1
+C:\Windows\WinSxS\msil_servicemodelreg_b03f5f7f11d50a3a_10.0.19041.1_none_0bb55a3e8d066c16\ServiceModelReg.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\msil_smsvchost_b03f5f7f11d50a3a_10.0.19200.110_none_30a09d63c4775424\SMSvcHost.exe,.NET Framework,v2.0.50727
+C:\Program Files (x86)\Microsoft SDKs\ClickOnce Bootstrapper\Engine\Launcher.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\arm64\ilc\tools\sg.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\arm64\ilc\tools\MakeNativeWinMD.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\arm64\ilc\tools\ILCTelemetry.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\x64\ilc\tools\sg.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\x64\ilc\tools\MakeNativeWinMD.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\x64\ilc\tools\ILCTelemetry.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\x86\ilc\tools\sg.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\x86\ilc\tools\MakeNativeWinMD.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\x86\ilc\tools\ILCTelemetry.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\xsd.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\wsdl.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\TlbImp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\TlbExp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\SvcUtil.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\sgen.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\MSBuildTaskHost.exe,.NET Framework,v2.0.50727
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\lc.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\disco.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\AxImp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\xsltc.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\xsd.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\wsdl.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\WinRes.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\WinMDExp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\WFC.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\WCA.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\TlbImp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\TlbExp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\SvcUtil.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\SvcTraceViewer.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\SvcConfigEditor.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\StoreAdm.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\SqlMetal.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\sgen.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\SecAnnotate.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\ResGen.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\MSBuildTaskHost.exe,.NET Framework,v2.0.50727
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\mpgo.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\mgmtclassgen.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\mageui.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\mage.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\lc.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\disco.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\AxImp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\aspnet_merge.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\aspnet_intern.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\x64\xsd.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\x64\wsdl.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\x64\TlbImp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\x64\TlbExp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\x64\SvcUtil.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\x64\sgen.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\x64\MSBuildTaskHost.exe,.NET Framework,v2.0.50727
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\x64\lc.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\x64\disco.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\x64\AxImp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\xsltc.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\xsd.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\wsdl.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\WinRes.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\WinMDExp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\WFC.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\WCA.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\TlbImp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\TlbExp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\SvcUtil.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\SvcTraceViewer.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\SvcConfigEditor.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\StoreAdm.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\SqlMetal.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\sgen.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\SecAnnotate.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\ResGen.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\MSBuildTaskHost.exe,.NET Framework,v2.0.50727
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\mpgo.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\mgmtclassgen.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\mageui.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\mage.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\lc.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\disco.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\AxImp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\aspnet_merge.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.2 Tools\aspnet_intern.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\xsd.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\wsdl.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\TlbImp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\TlbExp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\SvcUtil.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\sgen.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\MSBuildTaskHost.exe,.NET Framework,v2.0.50727
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\lc.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\disco.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\AxImp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\xsltc.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\xsd.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\wsdl.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\WinRes.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\WinMDExp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\WFC.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\WCA.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\TlbImp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\TlbExp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SvcUtil.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SvcTraceViewer.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SvcConfigEditor.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\StoreAdm.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SqlMetal.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\sgen.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\SecAnnotate.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\ResGen.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\MSBuildTaskHost.exe,.NET Framework,v2.0.50727
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\mpgo.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\mgmtclassgen.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\mageui.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\mage.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\lc.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\disco.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\AxImp.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\aspnet_merge.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\aspnet_intern.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\TestPlatform.Universal\17.1\References\CommonConfiguration\neutral\testhost.dll,.NET Framework,2.1
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\Feedback\dump64a.exe,.NET Framework,4.8
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\Feedback\dump64.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXInstaller.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXConfigurationUpdater.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXAutoUpdate.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSHiveStub.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_layout.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installershell.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.windows.exe,.NET Framework,v2.0.50727
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\VSInstallerElevationService.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\InstallCleanup.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\Microsoft Visual Studio\Installer\feedback.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\arm\ilc\tools\sg.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\arm\ilc\tools\Gatekeeper.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\arm\ilc\ilc.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x64\ilc\tools\sg.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x64\ilc\tools\Gatekeeper.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x64\ilc\ilc.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x86\ilc\tools\sg.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x86\ilc\tools\Gatekeeper.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\MSBuild\15.0\.Net\.NetNative\15.0.24211\x86\ilc\ilc.exe,.NET Framework,v4.0.30319
+C:\Windows\System32\AppV\AppVStreamingUX.exe,.NET Framework,4.5
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe,.NET Framework,4.5.1
+C:\Windows\System32\vmconnect.exe,.NET Framework,4.6
+C:\Windows\System32\UevTemplateConfigItemGenerator.exe,.NET Framework,4.5
+C:\Windows\System32\UevTemplateBaselineGenerator.exe,.NET Framework,4.5
+C:\Windows\System32\UevAppMonitor.exe,.NET Framework,4.5
+C:\Windows\System32\UevAgentPolicyGenerator.exe,.NET Framework,4.5
+C:\Windows\System32\tzsync.exe,.NET Framework,4.6
+C:\Windows\System32\TsWpfWrp.exe,.NET Framework,v2.0.50727
+C:\Windows\System32\stordiag.exe,.NET Framework,4.5
+C:\Windows\System32\ScriptRunner.exe,.NET Framework,4.5
+C:\Windows\SysWOW64\TsWpfWrp.exe,.NET Framework,v2.0.50727
+C:\Windows\SysWOW64\stordiag.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_addinprocess32_b77a5c561934e089_10.0.19041.1_none_3700bdc08c446a5c\AddInProcess32.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_addinprocess32_b77a5c561934e089_4.0.15805.0_none_faee98a3c711fae7\AddInProcess32.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_addinprocess32_b77a5c561934e089_4.0.15840.3_none_fae99c53c71674ed\AddInProcess32.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_addinprocess_b77a5c561934e089_4.0.15805.0_none_74baba51266f3010\AddInProcess.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_addinprocess_b77a5c561934e089_4.0.15840.3_none_74b5be012673aa16\AddInProcess.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_addinutil_b77a5c561934e089_4.0.15805.0_none_fcd173bc1b434b81\AddInUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_addinutil_b77a5c561934e089_4.0.15840.3_none_fccc776c1b47c587\AddInUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_aspnet_compiler_b03f5f7f11d50a3a_10.0.19041.1_none_9202844cd514ab44\aspnet_compiler.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_aspnet_compiler_b03f5f7f11d50a3a_4.0.15805.0_none_73cc8b3e43ba1056\aspnet_compiler.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_aspnet_compiler_b03f5f7f11d50a3a_4.0.15840.3_none_73c78eee43be8a5c\aspnet_compiler.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_aspnet_regbrowsers_b03f5f7f11d50a3a_10.0.19041.1_none_82a36c559596820a\aspnet_regbrowsers.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_aspnet_regbrowsers_b03f5f7f11d50a3a_10.0.19200.940_none_e004a52974996607\aspnet_regbrowsers.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_aspnet_regbrowsers_b03f5f7f11d50a3a_4.0.15805.0_none_646d7347043be71c\aspnet_regbrowsers.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_aspnet_regbrowsers_b03f5f7f11d50a3a_4.0.15840.300_none_58fbc43142ef846c\aspnet_regbrowsers.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_aspnet_regbrowsers_b03f5f7f11d50a3a_4.0.15840.3_none_646876f704406122\aspnet_regbrowsers.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_aspnet_regsql_b03f5f7f11d50a3a_10.0.19041.1_none_c9157ddc38b83b1b\aspnet_regsql.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_aspnet_regsql_b03f5f7f11d50a3a_10.0.19200.940_none_2676b6b017bb1f18\aspnet_regsql.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_aspnet_regsql_b03f5f7f11d50a3a_4.0.15805.0_none_aadf84cda75da02d\aspnet_regsql.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_aspnet_regsql_b03f5f7f11d50a3a_4.0.15840.300_none_9f6dd5b7e6113d7d\aspnet_regsql.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_aspnet_regsql_b03f5f7f11d50a3a_4.0.15840.3_none_aada887da7621a33\aspnet_regsql.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_caspol_b03f5f7f11d50a3a_10.0.19041.1_none_e51212a36c631d23\CasPol.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_caspol_b03f5f7f11d50a3a_4.0.15805.0_none_c6dc1994db088235\CasPol.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_caspol_b03f5f7f11d50a3a_4.0.15840.3_none_c6d71d44db0cfc3b\CasPol.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_comsvcconfig_b03f5f7f11d50a3a_4.0.15805.0_none_468e01fabfc37212\ComSvcConfig.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_comsvcconfig_b03f5f7f11d50a3a_4.0.15840.3_none_468905aabfc7ec18\ComSvcConfig.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_datasvcutil_b77a5c561934e089_4.0.15805.0_none_5b1ada239e3b0505\DataSvcUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_datasvcutil_b77a5c561934e089_4.0.15840.3_none_5b15ddd39e3f7f0b\DataSvcUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_dfsvc_b03f5f7f11d50a3a_4.0.15805.0_none_c0d2d1227427864f\dfsvc.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_dfsvc_b03f5f7f11d50a3a_4.0.15840.3_none_c0cdd4d2742c0055\dfsvc.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_edmgen_b77a5c561934e089_4.0.15805.0_none_ae80a3049486a75f\EdmGen.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_edmgen_b77a5c561934e089_4.0.15840.3_none_ae7ba6b4948b2165\EdmGen.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_installutil_b03f5f7f11d50a3a_10.0.19041.1_none_f4b2fffd9da4c90a\InstallUtil.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_installutil_b03f5f7f11d50a3a_4.0.15805.0_none_d67d06ef0c4a2e1c\InstallUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_installutil_b03f5f7f11d50a3a_4.0.15840.3_none_d6780a9f0c4ea822\InstallUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_jsc_b03f5f7f11d50a3a_4.0.15805.0_none_02d98290c2a0aa6b\jsc.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_jsc_b03f5f7f11d50a3a_4.0.15840.3_none_02d48640c2a52471\jsc.exe,.NET Framework,4.5
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.Workflow.Compiler\v4.0_4.0.0.0__31bf3856ad364e35\Microsoft.Workflow.Compiler.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\SMSvcHost\v4.0_4.0.0.0__b03f5f7f11d50a3a\SMSvcHost.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\WsatConfig\v4.0_4.0.0.0__b03f5f7f11d50a3a\WsatConfig.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2902.0\Microsoft.DirectX.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2902.0\Microsoft.DirectX.DirectSound.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2902.0\Microsoft.DirectX.DirectPlay.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2902.0\Microsoft.DirectX.DirectInput.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2902.0\Microsoft.DirectX.DirectDraw.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2902.0\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2902.0\Microsoft.DirectX.Direct3D.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2902.0\Microsoft.DirectX.Diagnostics.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2902.0\Microsoft.DirectX.AudioVideoPlayback.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2903.0\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2904.0\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2905.0\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2906.0\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2907.0\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2908.0\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2909.0\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2910.0\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2911.0\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\RegSvcs.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\RegAsm.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\MSBuild.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_microsoft-xbox-gamecallableui.appxmain_31bf3856ad364e35_10.0.19041.5678_none_97bb4cf29ca3d5d2\XBox.TCUI.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_smsvchost_b03f5f7f11d50a3a_4.0.15805.0_none_6d5f51303f9aca21\SMSvcHost.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_smsvchost_b03f5f7f11d50a3a_4.0.15840.3_none_6d5a54e03f9f4427\SMSvcHost.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_vmconnect6.2_31bf3856ad364e35_10.0.19041.1_none_5c4aee22bbc45ef1\vmconnect6.2.exe,.NET Framework,4.6
+C:\Windows\WinSxS\amd64_wpf-presentationfontcache_31bf3856ad364e35_10.0.19041.1_none_bb8aa452b18b9835\PresentationFontCache.exe,.NET Framework,v2.0.50727
+C:\Program Files (x86)\Adobe\Adobe Sync\CoreSync\LogCollectorTool\LogCollectorTool.exe,.NET Framework,4.5.2
+C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\CoreCon\11.0\bin\IpOverUsbSvc.exe,.NET Framework,4.5
+C:\Program Files (x86)\IIS\Microsoft Web Deploy V3\msdeploy.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\IIS Express\IisExpressAdminCmd.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\microsoft.testplatform.testhost\17.10.0-preview-24080-01\build\netcoreapp3.1\x64\testhost.dll,.NET Framework,3.1
+C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\microsoft.testplatform.testhost\17.10.0-preview-24080-01\build\netcoreapp3.1\x86\testhost.x86.dll,.NET Framework,3.1
+C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\microsoft.testplatform.testhost\17.10.0-preview-24080-01\lib\netcoreapp3.1\testhost.dll,.NET Framework,3.1
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\arm\ilc\csc\csc.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\arm\ilc\tools\sg.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\arm\ilc\tools\Gatekeeper.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\arm\ilc\ilc.exe,.NET Framework,v4.0.30319
+C:\Windows\System32\Microsoft.Uev.SyncController.exe,.NET Framework,4.5
+C:\Program Files\dotnet\sdk\8.0.300\Roslyn\bincore\VBCSCompiler.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\Roslyn\bincore\vbc.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\Roslyn\bincore\csc.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\Sdks\Microsoft.NET.Sdk.BlazorWebAssembly\tools\net8.0\Microsoft.NET.Sdk.BlazorWebAssembly.Tool.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\Sdks\Microsoft.NET.Sdk.Razor\tools\rzc.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\Sdks\Microsoft.NET.Sdk.StaticWebAssets\tools\net8.0\Microsoft.NET.Sdk.StaticWebAssets.Tool.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.x86.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.net48.x86.exe,.NET Framework,4.8
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.net48.exe,.NET Framework,4.8
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.net48.arm64.exe,.NET Framework,4.8
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.net472.x86.exe,.NET Framework,4.7.2
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.net472.exe,.NET Framework,4.7.2
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.net472.arm64.exe,.NET Framework,4.7.2
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.net471.x86.exe,.NET Framework,4.7.1
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.net471.exe,.NET Framework,4.7.1
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.net471.arm64.exe,.NET Framework,4.7.1
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.net47.x86.exe,.NET Framework,4.7
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.net47.exe,.NET Framework,4.7
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.net47.arm64.exe,.NET Framework,4.7
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\testhost.arm64.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\datacollector.exe,.NET Framework,4.7.2
+C:\Program Files\dotnet\sdk\8.0.300\TestHostNetFramework\datacollector.arm64.exe,.NET Framework,4.7.2
+C:\Program Files\dotnet\sdk\8.0.300\vstest.console.dll,.NET Framework,3.1
+C:\Program Files\dotnet\sdk\8.0.300\testhost.dll,.NET Framework,3.1
+C:\Program Files\dotnet\sdk\8.0.300\NuGet.CommandLine.XPlat.dll,.NET Framework,7.0
+C:\Program Files\dotnet\sdk\8.0.300\NuGet.Build.Tasks.Console.dll,.NET Framework,7.0
+C:\Program Files\dotnet\sdk\8.0.300\MSBuild.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\dotnet.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\datacollector.dll,.NET Framework,3.1
+C:\Program Files\dotnet\sdk\9.0.302\Containers\containerize\MSBuild.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\Containers\containerize\containerize.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\DotnetTools\dotnet-dev-certs\9.0.7-servicing.25317.2\tools\net9.0\any\dotnet-dev-certs.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\DotnetTools\dotnet-format\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe,.NET Framework,4.7.2
+C:\Program Files\dotnet\sdk\9.0.302\DotnetTools\dotnet-format\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll,.NET Framework,6.0
+C:\Program Files\dotnet\sdk\9.0.302\DotnetTools\dotnet-format\dotnet-format.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\DotnetTools\dotnet-user-jwts\9.0.7-servicing.25317.2\tools\net9.0\any\dotnet-user-jwts.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\DotnetTools\dotnet-user-secrets\9.0.7-servicing.25317.2\tools\net9.0\any\dotnet-user-secrets.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\DotnetTools\dotnet-watch\9.0.302-servicing.25319.7\tools\net9.0\any\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe,.NET Framework,4.7.2
+C:\Program Files\dotnet\sdk\9.0.302\DotnetTools\dotnet-watch\9.0.302-servicing.25319.7\tools\net9.0\any\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll,.NET Framework,6.0
+C:\Program Files\dotnet\sdk\9.0.302\DotnetTools\dotnet-watch\9.0.302-servicing.25319.7\tools\net9.0\any\NuGet.CommandLine.XPlat.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\DotnetTools\dotnet-watch\9.0.302-servicing.25319.7\tools\net9.0\any\MSBuild.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\DotnetTools\dotnet-watch\9.0.302-servicing.25319.7\tools\net9.0\any\dotnet.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\DotnetTools\dotnet-watch\9.0.302-servicing.25319.7\tools\net9.0\any\dotnet-watch.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\Extensions\dump\DumpMinitool.x86.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\sdk\9.0.302\Extensions\dump\DumpMinitool.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\sdk\9.0.302\Extensions\dump\DumpMinitool.arm64.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\sdk\9.0.302\FSharp\fsi.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\FSharp\fsc.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\Roslyn\bincore\VBCSCompiler.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\Roslyn\bincore\vbc.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\Roslyn\bincore\csc.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\Sdks\Microsoft.NET.Sdk.BlazorWebAssembly\tools\net9.0\Microsoft.NET.Sdk.BlazorWebAssembly.Tool.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\Sdks\Microsoft.NET.Sdk.Razor\tools\rzc.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\Sdks\Microsoft.NET.Sdk.StaticWebAssets\tools\net9.0\Microsoft.NET.Sdk.StaticWebAssets.Tool.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.x86.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net481.x86.exe,.NET Framework,4.8.1
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net481.exe,.NET Framework,4.8.1
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net481.arm64.exe,.NET Framework,4.8.1
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net48.x86.exe,.NET Framework,4.8
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net48.exe,.NET Framework,4.8
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net48.arm64.exe,.NET Framework,4.8
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net472.x86.exe,.NET Framework,4.7.2
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net472.exe,.NET Framework,4.7.2
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net472.arm64.exe,.NET Framework,4.7.2
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net471.x86.exe,.NET Framework,4.7.1
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net471.exe,.NET Framework,4.7.1
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net471.arm64.exe,.NET Framework,4.7.1
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net47.x86.exe,.NET Framework,4.7
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net47.exe,.NET Framework,4.7
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.net47.arm64.exe,.NET Framework,4.7
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\testhost.arm64.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\datacollector.exe,.NET Framework,4.8
+C:\Program Files\dotnet\sdk\9.0.302\TestHostNetFramework\datacollector.arm64.exe,.NET Framework,4.8
+C:\Program Files\dotnet\sdk\9.0.302\vstest.console.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\testhost.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\9.0.302\NuGet.CommandLine.XPlat.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\NuGet.Build.Tasks.Console.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\MSBuild.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\dotnet.dll,.NET Framework,9.0
+C:\Program Files\dotnet\sdk\9.0.302\datacollector.dll,.NET Framework,9.0
+C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell_ise.exe,.NET Framework,4.5.1
+C:\Windows\WinSxS\amd64_microsoft-xbox-gamecallableui.appxmain_31bf3856ad364e35_10.0.19041.5915_none_97951fca9cc144b8\XBox.TCUI.exe,.NET Framework,4.5
+C:\ProgramData\Prowlarr\bin\ServiceUninstall.dll,.NET Framework,6.0
+C:\ProgramData\Prowlarr\bin\ServiceInstall.dll,.NET Framework,6.0
+C:\Users\All Users\Lidarr\bin\Lidarr.dll,.NET Framework,6.0
+C:\Users\All Users\Lidarr\bin\Lidarr.Console.dll,.NET Framework,6.0
+C:\Users\All Users\Microsoft\VisualStudio\SetupWMI\MofCompiler.exe,.NET Framework,4.7.2
+C:\Users\All Users\Prowlarr\bin\ServiceUninstall.dll,.NET Framework,6.0
+C:\Users\All Users\Prowlarr\bin\ServiceInstall.dll,.NET Framework,6.0
+C:\Users\All Users\Prowlarr\bin\Prowlarr.dll,.NET Framework,6.0
+C:\Users\same_\.vscode\extensions\ms-dotnettools.csdevkit-1.30.44-win32-x64\components\CPS\platforms\win32-x64\node_modules\@microsoft\visualstudio-projectsystem-buildhost.win32-x64\Microsoft.VisualStudio.ProjectSystem.Server.BuildHost.dll,.NET Framework,6.0
+C:\Users\same_\.vscode\extensions\ms-dotnettools.csdevkit-1.30.44-win32-x64\components\vs-green-server\platforms\win32-x64\node_modules\@microsoft\visualstudio-controller.win32-x64\Microsoft.VisualStudio.Code.ServiceController.dll,.NET Framework,9.0
+C:\Users\same_\.vscode\extensions\ms-dotnettools.csdevkit-1.30.44-win32-x64\components\vs-green-server\platforms\win32-x64\node_modules\@microsoft\visualstudio-reliability-monitor.win32-x64\Microsoft.VisualStudio.Reliability.Monitor.dll,.NET Framework,9.0
+C:\Users\same_\.vscode\extensions\ms-dotnettools.csdevkit-1.30.44-win32-x64\components\vs-green-server\platforms\win32-x64\node_modules\@microsoft\visualstudio-server.win32-x64\Microsoft.VisualStudio.Code.Server.dll,.NET Framework,9.0
+C:\Users\same_\.vscode\extensions\ms-vscode.cpptools-1.26.3-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe,.NET Framework,4.7.2
+C:\Users\same_\.vscode\extensions\ms-vscode.cpptools-1.26.3-win32-x64\debugAdapters\bin\OpenDebugAD7.dll,.NET Framework,8.0
+C:\Users\same_\AppData\Local\Microsoft\Teams\Update.exe,.NET Framework,4.5
+C:\Users\same_\AppData\Local\Microsoft\VisualStudio\17.0_7e993639\Designer\Cache\1-69514541x86RD\WpfSurface.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Microsoft\VisualStudio\17.0_7e993639\Designer\Cache\1219888820x64DA\WpfSurface.dll,.NET Framework,v4.0.30319
+C:\Users\same_\AppData\Local\Microsoft\VisualStudio\17.0_ba095202\Designer\Cache\1-1798282516x86DD\WpfSurface.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Microsoft\VisualStudio\17.0_ba095202\Designer\Cache\1-1798282516x86DD\GUIConsole.Wpf.exe,.NET Framework,4.6.1
+C:\Users\same_\AppData\Local\Microsoft\VisualStudio\17.0_ba095202\Designer\Cache\1429724735x86DD\WpfSurface.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\fscAnyCpu\f9955d0624921a82c40307b492d57bd3\fscAnyCpu.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\fsiAnyCpu\22c32225e0daefd4b9984acdb3bc7317\fsiAnyCpu.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\InspectVhdDialog\fae097010f92ef360d5a26a1fab3bb64\InspectVhdDialog.ni.exe,.NET Framework,4.6
+C:\Windows\assembly\NativeImages_v4.0.30319_64\InspectVhdDialog6.2\6e0f199e493f42ff08a93eaf74063e57\InspectVhdDialog6.2.ni.exe,.NET Framework,4.6
+C:\Windows\assembly\NativeImages_v4.0.30319_64\InspectVhdDialog6.3\511474152a9af0a05861f1ac4be6d3b6\InspectVhdDialog6.3.ni.exe,.NET Framework,4.6
+C:\Windows\assembly\NativeImages_v4.0.30319_64\InteractiveHost64\6cea06483744a05b7b9269b50a97c568\InteractiveHost64.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\lc\21ad29f775d763c73f208a824f75d81d\lc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\lc\69353c4b48d005e755548715d8a3f965\lc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\lc\b19075976282aaa1cc5f0851d96d6f90\lc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\Microsoft.A75fd271a#\bc62af0de5d685dd922bb370fe12736c\Microsoft.Alm.Shared.Remoting.RemoteContainer.ni.exe,.NET Framework,4.7.2
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\jsc.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\IEExec.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\dfsvc.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\CasPol.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_regsql.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_regbrowsers.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_compiler.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\WsatConfig.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMSvcHost.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ServiceModelReg.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\ComSvcConfig.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v3.0\WPF\XamlViewer\XamlViewer_v0300.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v3.5\MSBuild.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v3.5\EdmGen.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v3.5\DataSvcUtil.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v3.5\AddInUtil.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v3.5\AddInProcess32.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v3.5\AddInProcess.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\WsatConfig.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\SMSvcHost.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegSvcs.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\RegAsm.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Workflow.Compiler.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\jsc.exe,.NET Framework,4.5
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\EdmGen.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\dfsvc.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\DataSvcUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\ComSvcConfig.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\CasPol.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regsql.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_regbrowsers.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_compiler.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AddInUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AddInProcess32.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\AddInProcess.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\RegSvcs.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\RegAsm.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\MSBuild.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\jsc.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\InstallUtil.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\IEExec.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\dfsvc.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\CasPol.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\aspnet_regsql.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\aspnet_regbrowsers.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\aspnet_compiler.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\WsatConfig.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\SMSvcHost.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\ServiceModelReg.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\ComSvcConfig.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\XamlViewer\XamlViewer_v0300.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v3.5\MSBuild.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v3.5\EdmGen.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v3.5\DataSvcUtil.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v3.5\AddInUtil.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v3.5\AddInProcess32.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v3.5\AddInProcess.exe,.NET Framework,v2.0.50727
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\WsatConfig.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\RegSvcs.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\RegAsm.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Microsoft.Workflow.Compiler.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\jsc.exe,.NET Framework,4.5
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\EdmGen.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\dfsvc.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\DataSvcUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ComSvcConfig.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\CasPol.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet_regsql.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet_regbrowsers.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet_compiler.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\AddInUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\AddInProcess32.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\AddInProcess.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\msil_addinprocess_b77a5c561934e089_10.0.19041.1_none_5170c1bc799e651e\AddInProcess.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\msil_addinutil_b77a5c561934e089_10.0.19041.1_none_724c73dbde296e25\AddInUtil.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\msil_comsvcconfig_b03f5f7f11d50a3a_10.0.19041.1_none_ac711518659a66a5\ComSvcConfig.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\wow64_microsoft-windows-storage-diagnostics_31bf3856ad364e35_10.0.19041.1_none_34f70c73dc049744\stordiag.exe,.NET Framework,4.5
+C:\Program Files\AMD\CNext\CNext\facebook\FacebookClient.exe,.NET Framework,4.7.2
+C:\Program Files\AMD\CNext\CNext\giphy\GiphyWrapper.exe,.NET Framework,4.5
+C:\Program Files\AMD\CNext\CNext\restream\RestreamAPIWrapper.exe,.NET Framework,4.8
+C:\Program Files\AMD\CNext\CNext\sinaWeibo\SinaWeiboWrapper.exe,.NET Framework,4.5
+C:\Program Files\AMD\CNext\CNext\streamable\StreamableAPIWrapper.exe,.NET Framework,4.5.2
+C:\Program Files\AMD\CNext\CNext\twitch\TwitchClient.exe,.NET Framework,4.8
+C:\Program Files\AMD\CNext\CNext\twitter\TwitterWrapperClient.exe,.NET Framework,4.5
+C:\Program Files\AMD\CNext\CNext\youtube\YoutubeAPIWrapper.exe,.NET Framework,4.8
+C:\Program Files\AMD\CNext\CNext\ZipUtility.exe,.NET Framework,4.5
+C:\Program Files\AMD\CNext\CNext\EyefinityPro.exe,.NET Framework,4.5
+C:\Program Files\AMD\Performance Profile Client\ZipUtility.exe,.NET Framework,4.5
+C:\Program Files\DebugDiag\x86Support\DebugDiag.X86AnalysisHost.exe,.NET Framework,4.5
+C:\Program Files\DebugDiag\DebugDiag.RuleBuilder.exe,.NET Framework,4.5
+C:\Program Files\DebugDiag\DebugDiag.Analysis.exe,.NET Framework,4.5
+C:\Program Files\Docker\Docker\InstallerCli.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\sdk\8.0.300\Containers\containerize\MSBuild.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\Containers\containerize\containerize.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\Containers\tasks\net8.0\MSBuild.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\DotnetTools\dotnet-dev-certs\8.0.5-servicing.24224.4\tools\net8.0\any\dotnet-dev-certs.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\DotnetTools\dotnet-format\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll,.NET Framework,7.0
+C:\Program Files\dotnet\sdk\8.0.300\DotnetTools\dotnet-format\dotnet-format.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\DotnetTools\dotnet-user-jwts\8.0.5-servicing.24224.4\tools\net8.0\any\dotnet-user-jwts.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\DotnetTools\dotnet-user-secrets\8.0.5-servicing.24224.4\tools\net8.0\any\dotnet-user-secrets.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\DotnetTools\dotnet-watch\8.0.300-rtm.24224.16\tools\net8.0\any\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe,.NET Framework,4.7.2
+C:\Program Files\dotnet\sdk\8.0.300\DotnetTools\dotnet-watch\8.0.300-rtm.24224.16\tools\net8.0\any\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll,.NET Framework,6.0
+C:\Program Files\dotnet\sdk\8.0.300\DotnetTools\dotnet-watch\8.0.300-rtm.24224.16\tools\net8.0\any\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll,.NET Framework,6.0
+C:\Program Files\dotnet\sdk\8.0.300\DotnetTools\dotnet-watch\8.0.300-rtm.24224.16\tools\net8.0\any\dotnet-watch.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\Extensions\dump\DumpMinitool.x86.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\sdk\8.0.300\Extensions\dump\DumpMinitool.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\sdk\8.0.300\Extensions\dump\DumpMinitool.arm64.exe,.NET Framework,4.6.2
+C:\Program Files\dotnet\sdk\8.0.300\FSharp\fsi.dll,.NET Framework,8.0
+C:\Program Files\dotnet\sdk\8.0.300\FSharp\fsc.dll,.NET Framework,8.0
+C:\Program Files\PowerShell\7\pwsh.dll,.NET Framework,8.0
+C:\Program Files\PowerToys\modules\Awake\PowerToys.Awake.dll,.NET Framework,7.0
+C:\Program Files\PowerToys\modules\ColorPicker\PowerToys.ColorPickerUI.dll,.NET Framework,7.0
+C:\Program Files\PowerToys\modules\FancyZones\PowerToys.FancyZonesEditor.dll,.NET Framework,7.0
+C:\Program Files\PowerToys\modules\FileLocksmith\PowerToys.FileLocksmithUI.dll,.NET Framework,7.0
+C:\Program Files\PowerToys\modules\Hosts\PowerToys.Hosts.dll,.NET Framework,7.0
+C:\Program Files\PowerToys\modules\ImageResizer\PowerToys.ImageResizer.dll,.NET Framework,7.0
+C:\Program Files\PowerToys\modules\launcher\PowerToys.PowerLauncher.dll,.NET Framework,7.0
+C:\Program Files\PowerToys\modules\MeasureTool\PowerToys.MeasureToolUI.dll,.NET Framework,7.0
+C:\Program Files\PowerToys\modules\PowerAccent\PowerToys.PowerAccent.dll,.NET Framework,7.0
+C:\Program Files\PowerToys\modules\PowerAccent\PowerAccent.dll,.NET Framework,7.0
+C:\Program Files\PowerToys\modules\PowerOCR\PowerToys.PowerOCR.dll,.NET Framework,7.0
+C:\Program Files\PowerToys\Settings\PowerToys.Settings.dll,.NET Framework,7.0
+C:\Program Files\Proton\VPN\v4.1.13\ProtonVPNService.dll,.NET Framework,8.0
+C:\Program Files\Proton\VPN\v4.1.13\ProtonVPN.WireGuardService.dll,.NET Framework,8.0
+C:\Program Files\Proton\VPN\v4.1.13\ProtonVPN.TlsVerify.dll,.NET Framework,8.0
+C:\Program Files\Proton\VPN\v4.1.13\ProtonVPN.RestoreInternet.dll,.NET Framework,8.0
+C:\Program Files\Proton\VPN\v4.1.13\ProtonVPN.Client.dll,.NET Framework,8.0
+C:\Program Files\Proton\VPN\v4.2.0\ProtonVPNService.dll,.NET Framework,8.0
+C:\Program Files\Proton\VPN\v4.2.0\ProtonVPN.WireGuardService.dll,.NET Framework,8.0
+C:\Program Files\Proton\VPN\v4.2.0\ProtonVPN.TlsVerify.dll,.NET Framework,8.0
+C:\Program Files\Proton\VPN\v4.2.0\ProtonVPN.RestoreInternet.dll,.NET Framework,8.0
+C:\Program Files\Proton\VPN\v4.2.0\ProtonVPN.Client.dll,.NET Framework,8.0
+C:\Windows\WinSxS\amd64_netfx4-ngentask_exe_b03f5f7f11d50a3a_4.0.15805.0_none_d4039dd5692796db\ngentask.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_netfx4-ngentask_exe_b03f5f7f11d50a3a_4.0.15805.285_none_cbd46ba524299690\ngentask.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_netfx4-ngentask_exe_b03f5f7f11d50a3a_4.0.15840.3_none_d3fea185692c10e1\ngentask.exe,.NET Framework,v4.0.30319
+C:\Program Files\Git\mingw64\libexec\git-core\git-credential-manager-core.exe,.NET Framework,4.7.2
+C:\Program Files\Tablet\Wacom\WacomCenter\WacomCenterUI.dll,.NET Framework,6.0
+C:\Users\same_\.nuget\packages\microsoft.testplatform.testhost\17.1.0\build\netcoreapp1.0\x64\testhost.dll,.NET Framework,1.0
+C:\Users\same_\.nuget\packages\microsoft.testplatform.testhost\17.1.0\build\netcoreapp1.0\x86\testhost.x86.dll,.NET Framework,1.0
+C:\Users\same_\.nuget\packages\microsoft.testplatform.testhost\17.1.0\build\netcoreapp2.1\x64\testhost.dll,.NET Framework,2.1
+C:\Users\same_\.nuget\packages\microsoft.testplatform.testhost\17.1.0\build\netcoreapp2.1\x86\testhost.x86.dll,.NET Framework,2.1
+C:\Users\same_\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp1.0\testhost.dll,.NET Framework,1.0
+C:\Users\same_\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\netcoreapp2.1\testhost.dll,.NET Framework,2.1
+C:\Users\same_\.nuget\packages\microsoft.testplatform.testhost\17.1.0\lib\uap10.0\testhost.dll,.NET Framework,2.1
+C:\Users\same_\.nuget\packages\microsoft.web.webview2\1.0.1264.42\tools\wv2winrt\wv2winrt.exe,.NET Framework,4.8
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.22621.756\bin\10.0.22621.0\arm64\WinAppDeployCmd.exe,.NET Framework,4.5
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.22621.756\bin\10.0.22621.0\arm64\PackageEditor.exe,.NET Framework,4.6
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.22621.756\bin\10.0.22621.0\arm64\ComparePackage.exe,.NET Framework,4.6
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.22621.756\bin\10.0.22621.0\x64\WinAppDeployCmd.exe,.NET Framework,4.5
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.22621.756\bin\10.0.22621.0\x64\PackageEditor.exe,.NET Framework,4.6
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.22621.756\bin\10.0.22621.0\x64\ComparePackage.exe,.NET Framework,4.6
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.22621.756\bin\10.0.22621.0\x86\WinAppDeployCmd.exe,.NET Framework,4.5
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.22621.756\bin\10.0.22621.0\x86\PackageEditor.exe,.NET Framework,4.6
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.22621.756\bin\10.0.22621.0\x86\ComparePackage.exe,.NET Framework,4.6
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.26100.1\bin\10.0.26100.0\arm64\WinAppDeployCmd.exe,.NET Framework,4.5
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.26100.1\bin\10.0.26100.0\arm64\PackageEditor.exe,.NET Framework,4.6
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.26100.1\bin\10.0.26100.0\arm64\ComparePackage.exe,.NET Framework,4.6
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.26100.1\bin\10.0.26100.0\x64\WinAppDeployCmd.exe,.NET Framework,4.5
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.26100.1\bin\10.0.26100.0\x64\PackageEditor.exe,.NET Framework,4.6
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.26100.1\bin\10.0.26100.0\x64\ComparePackage.exe,.NET Framework,4.6
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.26100.1\bin\10.0.26100.0\x86\WinAppDeployCmd.exe,.NET Framework,4.5
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.26100.1\bin\10.0.26100.0\x86\PackageEditor.exe,.NET Framework,4.6
+C:\Users\same_\.nuget\packages\microsoft.windows.sdk.buildtools\10.0.26100.1\bin\10.0.26100.0\x86\ComparePackage.exe,.NET Framework,4.6
+C:\Users\same_\.nuget\packages\microsoft.windowsappsdk\1.5.240428000\tools\net472\XamlCompiler.exe,.NET Framework,4.7.2
+C:\Program Files (x86)\Windows Kits\10\App Certification Kit\microsoft.windows.softwarelogo.taskengine.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Windows Kits\10\App Certification Kit\appcertui.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Windows Kits\10\App Certification Kit\appcert.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm\AccChecker\acccheckui.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm\AccChecker\AccCheckConsole.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm\UIAVerify\VisualUIAVerifyNative.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm\mbidgenerator.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm\ftquery.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\AccChecker\acccheckui.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\AccChecker\AccCheckConsole.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\UIAVerify\VisualUIAVerifyNative.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\xpsconverter.exe,.NET Framework,4.6
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\wsutil.exe,.NET Framework,4.6
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\WinAppDeployCmd.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\vsdiagview.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\StoreUploader.exe,.NET Framework,4.0
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\PackageEditor.exe,.NET Framework,4.6
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\mbidgenerator.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\isxps.exe,.NET Framework,4.6
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\ftquery.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\arm64\ComparePackage.exe,.NET Framework,4.6
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\AccChecker\acccheckui.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\AccChecker\AccCheckConsole.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\UIAVerify\VisualUIAVerifyNative.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\xpsconverter.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\wsutil.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\wsdcodegen.exe,.NET Framework,v2.0.50727
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\WinAppDeployCmd.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\vsdiagview.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\StoreUploader.exe,.NET Framework,4.0
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\PackageEditor.exe,.NET Framework,4.6
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\mbidgenerator.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\isxps.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\ftquery.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64\ComparePackage.exe,.NET Framework,4.6
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\AccChecker\acccheckui.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\AccChecker\AccCheckConsole.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\UIAVerify\VisualUIAVerifyNative.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\xpsconverter.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\wsutil.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\wsdcodegen.exe,.NET Framework,v2.0.50727
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\WinAppDeployCmd.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\vsdiagview.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\StoreUploader.exe,.NET Framework,4.0
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\PackageEditor.exe,.NET Framework,4.6
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\mbidgenerator.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\isxps.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\ftquery.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86\ComparePackage.exe,.NET Framework,4.6
+C:\Program Files (x86)\Windows Kits\10\Testing\Runtimes\TAEF\x64\TE.ManagedHost.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\Testing\Runtimes\TAEF\TE.ManagedHost.exe,.NET Framework,4.5
+C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\wpaexporter.dll,.NET Framework,3.1
+C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\wpa.dll,.NET Framework,3.1
+C:\Program Files (x86)\Xamarin\Simulator\Xamarin.Simulator.Windows.exe,.NET Framework,4.5.2
+C:\ProgramData\LGHUB\depots\89250\core\lghub_uninstaller.exe,.NET Framework,4.0
+C:\ProgramData\Lidarr\bin\ServiceUninstall.dll,.NET Framework,6.0
+C:\ProgramData\Lidarr\bin\ServiceInstall.dll,.NET Framework,6.0
+C:\ProgramData\Lidarr\bin\Lidarr.dll,.NET Framework,6.0
+C:\ProgramData\Lidarr\bin\Lidarr.Console.dll,.NET Framework,6.0
+C:\ProgramData\Microsoft\VisualStudio\SetupWMI\MofCompiler.exe,.NET Framework,4.7.2
+C:\Windows\WinSxS\amd64_msbuild_b03f5f7f11d50a3a_4.0.15805.0_none_dc3886319c616739\MSBuild.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_msbuild_b03f5f7f11d50a3a_4.0.15840.3_none_dc3389e19c65e13f\MSBuild.exe,.NET Framework,v4.0.30319
+C:\ProgramData\Prowlarr\bin\Prowlarr.dll,.NET Framework,6.0
+C:\ProgramData\Prowlarr\bin\Prowlarr.Console.dll,.NET Framework,6.0
+C:\ProgramData\Sonarr\bin\Sonarr.dll,.NET Framework,6.0
+C:\ProgramData\Sonarr\bin\Sonarr.Console.dll,.NET Framework,6.0
+C:\ProgramData\Sonarr\bin\ServiceUninstall.dll,.NET Framework,6.0
+C:\Users\All Users\LGHUB\depots\89250\core\lghub_uninstaller.exe,.NET Framework,4.0
+C:\Users\All Users\Lidarr\bin\ServiceUninstall.dll,.NET Framework,6.0
+C:\Users\All Users\Lidarr\bin\ServiceInstall.dll,.NET Framework,6.0
+C:\Users\All Users\Prowlarr\bin\Prowlarr.Console.dll,.NET Framework,6.0
+C:\Users\All Users\Sonarr\bin\Sonarr.dll,.NET Framework,6.0
+C:\Users\All Users\Sonarr\bin\Sonarr.Console.dll,.NET Framework,6.0
+C:\Users\All Users\Sonarr\bin\ServiceUninstall.dll,.NET Framework,6.0
+C:\Users\All Users\Sonarr\bin\ServiceInstall.dll,.NET Framework,6.0
+C:\Users\same_\.nuget\packages\avalonia\0.10.18\tools\net461\designer\Avalonia.Designer.HostApp.exe,.NET Framework,4.6.1
+C:\Users\same_\.nuget\packages\avalonia\0.10.18\tools\netcoreapp2.0\designer\Avalonia.Designer.HostApp.dll,.NET Framework,2.0
+C:\Users\same_\.nuget\packages\avalonia\0.10.18\tools\netstandard2.0\Avalonia.Build.Tasks.dll,.NET Framework,2.0
+C:\Users\same_\.vscode\extensions\ms-dotnettools.csdevkit-1.30.44-win32-x64\components\vs-green-server\platforms\win32-x64\node_modules\@microsoft\visualstudio-code-servicehost.win32-x64\Microsoft.VisualStudio.Code.ServiceHost.dll,.NET Framework,9.0
+C:\Users\same_\.vscode\extensions\ms-dotnettools.csharp-2.84.19-win32-x64\.roslyn\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll,.NET Framework,6.0
+C:\Users\same_\.vscode\extensions\ms-dotnettools.csharp-2.84.19-win32-x64\.roslyn\Microsoft.CodeAnalysis.LanguageServer.dll,.NET Framework,9.0
+C:\Users\same_\AppData\Local\AzureFunctionsTools\Releases\2.60.0\cli_x64\dotnet-aspnet-codegenerator-design.dll,.NET Framework,2.0
+C:\Users\same_\AppData\Local\AzureFunctionsTools\Releases\4.12.0\cli_x64\Microsoft.Azure.WebJobs.Script.WebHost.dll,.NET Framework,6.0
+C:\Users\same_\AppData\Local\AzureFunctionsTools\Releases\4.12.0\cli_x64\func.dll,.NET Framework,6.0
+C:\Users\same_\AppData\Local\Discord\app-0.0.309\Squirrel.exe,.NET Framework,4.5
+C:\Users\same_\AppData\Local\Discord\Update.exe,.NET Framework,4.5
+C:\Users\same_\AppData\Local\FACEIT\app-2.1.42\squirrel.exe,.NET Framework,4.5
+C:\Users\same_\AppData\Local\FACEIT\Update.exe,.NET Framework,4.5
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\Microsoft.VisualStudio.Setup.ToastNotification.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\InstallCleanup.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\feedback.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\Feedback\dump64a.exe,.NET Framework,4.8
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\Feedback\dump64.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\vs_layout.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\vs_installershell.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\vs_installer.windows.exe,.NET Framework,v2.0.50727
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\vs_installer.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\VSInstallerElevationService.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\setup.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\Microsoft.VisualStudio.Setup.ToastNotification.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\InstallCleanup.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\Feedback\dump64a.exe,.NET Framework,4.8
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\Feedback\dump64.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\Feedback\dump64a.exe,.NET Framework,4.8
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\Feedback\dump64.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\vs_layout.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\vs_installershell.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\vs_installer.windows.exe,.NET Framework,v2.0.50727
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\vs_installer.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\VSInstallerElevationService.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\setup.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\Microsoft.VisualStudio.Setup.ToastNotification.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\InstallCleanup.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\feedback.exe,.NET Framework,4.7.2
+C:\Windows\assembly\GAC\Microsoft.DirectX.DirectDraw\1.0.2902.0__31bf3856ad364e35\Microsoft.DirectX.DirectDraw.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.DirectInput\1.0.2902.0__31bf3856ad364e35\Microsoft.DirectX.DirectInput.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.DirectPlay\1.0.2902.0__31bf3856ad364e35\Microsoft.DirectX.DirectPlay.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.DirectSound\1.0.2902.0__31bf3856ad364e35\Microsoft.DirectX.DirectSound.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC_32\MSBuild\3.5.0.0__b03f5f7f11d50a3a\MSBuild.exe,.NET Framework,v2.0.50727
+C:\Windows\assembly\GAC_MSIL\SMSvcHost\3.0.0.0__b03f5f7f11d50a3a\SMSvcHost.exe,.NET Framework,v2.0.50727
+C:\Windows\assembly\NativeImages_v4.0.30319_32\fsc\8f69cc038bdf56ebdc54d518c4964881\fsc.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\fsi\6ad0379f945f9408ef87a8e94682f407\fsi.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\Gatekeeper\015bb796d565417b686f88765ae8b7d6\Gatekeeper.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\Gatekeeper\17afe212b30aa08f7ba3dbdec0268810\Gatekeeper.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\Gatekeeper\48f7020225d04d6d41c410a96a6332c6\Gatekeeper.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\Gatekeeper\82720edc2724888bd531a8de850e5022\Gatekeeper.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\Gatekeeper\a4a7050a993e57f70593f4cacd66b5e0\Gatekeeper.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\Gatekeeper\e03504f5a82cdf606ce77777af7aad11\Gatekeeper.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\ilc\00793a43892ca80ac648041d92be21e3\ilc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\ilc\598d7ae07043dfefb66413451739625c\ilc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\ilc\6f57497f6e70162cabee33dbbea625de\ilc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\ilc\6fd0635aa618913b339b3ca15cdb84c0\ilc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\sg\2dd0ee525290a6bd35f83842c63f7980\sg.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\sg\5be9e87d54c234479fe1f2f60beff29b\sg.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\sg\79a9dda41d78f3e725c7dd0182494158\sg.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\sg\8f63a5aec14a13dbeb52afc48124077f\sg.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\sg\a4d351f4e65c43036a1e73ab4f824b40\sg.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\sg\f2a18b813852669a5e1b02ce5dd707b1\sg.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\sgen\3ef8aa45e2c387970710411450d72024\sgen.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\sgen\b1af425b2b24046ac116a057a27d77be\sgen.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\sgen\d7f018f5aa4e7bc23e8eed931f2ea0c5\sgen.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\SqlMetal\2474d7d77bb2905c0eac29cd8e734409\SqlMetal.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\SqlMetal\5de6b113ca6989bb3d2938e930851c5b\SqlMetal.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\SqlMetal\d0020766d707252295f70938bbd8f0ae\SqlMetal.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\System32\FileHistory.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-ie-iediag_31bf3856ad364e35_11.0.19041.3636_none_cf2fd7b3701a7245\iediagcmd.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-xbox-gamecallableui.appxmain_31bf3856ad364e35_10.0.19041.6033_none_97f89f209c7645d2\XBox.TCUI.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_regasm_b03f5f7f11d50a3a_10.0.19041.1_none_904f8b459208b3ae\RegAsm.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_regasm_b03f5f7f11d50a3a_4.0.15805.0_none_7219923700ae18c0\RegAsm.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_wcf-wsatconfig_b03f5f7f11d50a3a_10.0.19041.1_none_c45aa783f860ee61\WsatConfig.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\msil_datasvcutil_b77a5c561934e089_10.0.19041.1_none_27a74d404373e881\DataSvcUtil.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\msil_dfsvc_b03f5f7f11d50a3a_10.0.19041.1_none_26b5e44019fe7ae2\dfsvc.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\msil_edmgen_b77a5c561934e089_10.0.19041.1_none_25aa820b9acb3357\EdmGen.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\msil_hyperv-ux-ui-vmcreate_31bf3856ad364e35_10.0.19041.1_none_8d387dde0a6c6d14\VMCreate.exe,.NET Framework,4.6
+C:\Windows\WinSxS\msil_hyperv-ux-ui-vmimport_31bf3856ad364e35_10.0.19041.1_none_db0db48be3885975\VMImport.exe,.NET Framework,4.6
+C:\Windows\WinSxS\msil_ieexec_b03f5f7f11d50a3a_10.0.19041.1_none_3fc8ddfd98ad3137\IEExec.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\wow64_installutil_b03f5f7f11d50a3a_4.0.15805.0_none_004b4e08cd94c339\InstallUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_installutil_b03f5f7f11d50a3a_4.0.15840.3_none_004651b8cd993d3f\InstallUtil.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_jsc_b03f5f7f11d50a3a_4.0.15805.0_none_2ca7c9aa83eb3f88\jsc.exe,.NET Framework,4.5
+C:\Windows\WinSxS\wow64_jsc_b03f5f7f11d50a3a_4.0.15840.3_none_2ca2cd5a83efb98e\jsc.exe,.NET Framework,4.5
+C:\Program Files\Git\mingw64\libexec\git-core\GitHub.UI.exe,.NET Framework,4.7.2
+C:\ProgramData\Sonarr\bin\ServiceInstall.dll,.NET Framework,6.0
+C:\Users\same_\.vscode\extensions\ms-dotnettools.csharp-2.84.19-win32-x64\.razor\rzls.dll,.NET Framework,9.0
+C:\Users\same_\AppData\Local\AzureFunctionsTools\Releases\1.13.2\cli_x64\NuGet.exe,.NET Framework,4.5
+C:\Users\same_\AppData\Local\AzureFunctionsTools\Releases\3.33.0\cli_x64\func.dll,.NET Framework,3.1
+C:\Users\same_\AppData\Local\AzureFunctionsTools\Releases\3.33.0\cli_x64\dotnet-aspnet-codegenerator-design.dll,.NET Framework,2.0
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXInstaller.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXConfigurationUpdater.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXAutoUpdate.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSHiveStub.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\vs_layout.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\vs_installershell.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\vs_installer.windows.exe,.NET Framework,v2.0.50727
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\vs_installer.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\VSInstallerElevationService.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\setup.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\Feedback\dump64a.exe,.NET Framework,4.8
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\Feedback\dump64.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXConfigurationUpdater.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXAutoUpdate.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\41pghhiz.f5t\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSHiveStub.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXInstaller.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXConfigurationUpdater.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXAutoUpdate.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\5vnd0ztg.24a\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSHiveStub.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXInstaller.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXConfigurationUpdater.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXAutoUpdate.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSHiveStub.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\vs_layout.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\vs_installershell.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\vs_installer.windows.exe,.NET Framework,v2.0.50727
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\vs_installer.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\VSInstallerElevationService.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\setup.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\Microsoft.VisualStudio.Setup.ToastNotification.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\InstallCleanup.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\dkkyfeev.ymw\feedback.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXInstaller.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXConfigurationUpdater.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSIXAutoUpdate.exe,.NET Framework,4.7.2
+C:\Users\same_\AppData\Local\Temp\jshgcf32.5bj\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\VSHiveStub.exe,.NET Framework,4.7.2
+C:\Windows\assembly\GAC\Microsoft.DirectX\1.0.2902.0__31bf3856ad364e35\Microsoft.DirectX.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.AudioVideoPlayback\1.0.2902.0__31bf3856ad364e35\Microsoft.DirectX.AudioVideoPlayback.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.Diagnostics\1.0.2902.0__31bf3856ad364e35\Microsoft.DirectX.Diagnostics.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.Direct3D\1.0.2902.0__31bf3856ad364e35\Microsoft.DirectX.Direct3D.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.Direct3DX\1.0.2902.0__31bf3856ad364e35\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.Direct3DX\1.0.2903.0__31bf3856ad364e35\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.Direct3DX\1.0.2904.0__31bf3856ad364e35\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.Direct3DX\1.0.2905.0__31bf3856ad364e35\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.Direct3DX\1.0.2906.0__31bf3856ad364e35\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.Direct3DX\1.0.2907.0__31bf3856ad364e35\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.Direct3DX\1.0.2908.0__31bf3856ad364e35\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.Direct3DX\1.0.2909.0__31bf3856ad364e35\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.Direct3DX\1.0.2910.0__31bf3856ad364e35\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC\Microsoft.DirectX.Direct3DX\1.0.2911.0__31bf3856ad364e35\Microsoft.DirectX.Direct3DX.dll,.NET Framework,v1.1.4322
+C:\Windows\assembly\GAC_MSIL\ComSvcConfig\3.0.0.0__b03f5f7f11d50a3a\ComSvcConfig.exe,.NET Framework,v2.0.50727
+C:\Windows\assembly\GAC_MSIL\dfsvc\2.0.0.0__b03f5f7f11d50a3a\dfsvc.exe,.NET Framework,v2.0.50727
+C:\Windows\assembly\GAC_MSIL\HyperV-UX-UI-VMCreate\10.0.19041.1__31bf3856ad364e35\VMCreate.exe,.NET Framework,4.6
+C:\Windows\assembly\GAC_MSIL\HyperV-UX-UI-VMImport\10.0.19041.1__31bf3856ad364e35\VMImport.exe,.NET Framework,4.6
+C:\Windows\assembly\NativeImages_v4.0.30319_32\aspnet_merge\f1c6341c57bd653b9a54ad6aaedbed79\aspnet_merge.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\AxImp\53aac476334d54b94b12f18756343bcd\AxImp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\AxImp\653880d15383c579060ab8160aa44790\AxImp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\AxImp\e68c5b3b76e8ce47a19cf5cb9cb9da60\AxImp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\csc\af816526deeb71a7cc7f4d35fbc6da3c\csc.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\csc\b7c17033987e993ad6a826ec8404c5f0\csc.ni.exe,.NET Framework,4.5
+C:\Windows\assembly\NativeImages_v4.0.30319_32\csi\e3e284d96a53f25b95cc68202a892871\csi.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\QTAgent32_40\72e510dea589a9cb70177f0e81e0f884\QTAgent32_40.ni.exe,.NET Framework,4.0
+C:\Windows\assembly\NativeImages_v4.0.30319_32\QTDCAgent32\669ce9ee1221cc93e3fc533da06cf7f0\QTDCAgent32.ni.exe,.NET Framework,4.0
+C:\Windows\assembly\NativeImages_v4.0.30319_32\ResGen\2dc7ff260104823da8c878e76e5eff0e\ResGen.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\ResGen\70142aaeda4e99378d29d57a98a6c373\ResGen.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\ResGen\e27ba6d3ba6462d469ab6d1c490a4158\ResGen.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\SecAnnotate\03011c3a4b6731929871ddee9fbd9a6f\SecAnnotate.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\SecAnnotate\74c84d66865096b2c188c882cc96225d\SecAnnotate.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\SecAnnotate\74f0a1e04eb5351a75ed427a31b5c319\SecAnnotate.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\svcutil\5eb5c8ab5491f2ce49a7e1d1d9a45459\svcutil.ni.exe,.NET Framework,4.5
+C:\Windows\assembly\NativeImages_v4.0.30319_32\svcutil\686ee83dc8c049cf896eec9fa2cbaa97\svcutil.ni.exe,.NET Framework,4.5
+C:\Windows\assembly\NativeImages_v4.0.30319_32\svcutil\a6b4c825ad66fbefff8c59d3c73190f0\svcutil.ni.exe,.NET Framework,4.5
+C:\Windows\assembly\NativeImages_v4.0.30319_32\testhost.net47.x86\8f524bf100a6f7a6d4782d175ad5515b\testhost.net47.x86.ni.exe,.NET Framework,4.7
+C:\Windows\assembly\NativeImages_v4.0.30319_32\testhost.net471.x86\448eab400536d6a2eebe5a80b43d2696\testhost.net471.x86.ni.exe,.NET Framework,4.7.1
+C:\Windows\assembly\NativeImages_v4.0.30319_32\testhost.net472.x86\61db7b47debc10e90ba6a09f17ffa22f\testhost.net472.x86.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\testhost.net48.x86\c3381ce37db88ce55939346eb68bdc64\testhost.net48.x86.ni.exe,.NET Framework,4.8
+C:\Windows\assembly\NativeImages_v4.0.30319_32\testhost.x86\f453ea8d950e563d04eae27014f31996\testhost.x86.ni.exe,.NET Framework,4.6.2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\TlbExp\37e09566b2354464429093fa8f7b93eb\TlbExp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\TlbExp\9a63e3abfdd953d532f1ce8917641240\TlbExp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\TlbExp\b6070d107dddca67a5294d72295cdbd7\TlbExp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\TlbImp\62025edcefa58410f5f930ef8cab5272\TlbImp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\TlbImp\753328332d522d340100bb67c32c7f15\TlbImp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\TlbImp\a30be43e884ccea3040f935909b4137c\TlbImp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\vbc\e9695bc55d41f20f41f06a15abf72276\vbc.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\VBCSCompiler\e5c62a9f24fedb3d24c7487e26ad4fcc\VBCSCompiler.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_32\WinMDExp\5c21fe51f0a7907e2b9ea370a8bee763\WinMDExp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\WinMDExp\d06fdc2e457ff5eb7d39234cd4aeea2a\WinMDExp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\WinMDExp\eb34c437a322e19f3be1ee10f7971bb1\WinMDExp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\wsdl\54e8f6d29ecbba350c5f8c06a1e4575c\wsdl.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\wsdl\5e23bdc61a244e68ddfc4d22c073d91e\wsdl.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\wsdl\b65e2ebe4d56e832e1882db9b6ce01fc\wsdl.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\xsd\534dbe2bca4e6488709e01a047644814\xsd.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\xsd\845c40617618e8e8a1dea1251287ec4f\xsd.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\xsd\edcfebe8032694075f0b96237de5ff55\xsd.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\xsltc\52f6e28e1b7808bb4dbfda53582c369a\xsltc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\xsltc\8fb0c3dd853f11f454864cb4e581f543\xsltc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_32\xsltc\bc3df04b88d1ff3701cd1a14be87d31b\xsltc.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\AxImp\1124f5cee87186b582923501c79758bf\AxImp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\AxImp\d44ce468369faf175903ba52b688bc30\AxImp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\AxImp\ee404c39c2a26cc8d1442c3afd9bae20\AxImp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\csc\d74240d8034808babb44c0d4bfef7ce3\csc.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\csi\9368feda24f3fe2d645ec0c3be153ccf\csi.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\Microsoft.W2dd82b1c#\2a0a75b5a67cb158aff174d0667328a9\Microsoft.WebTools.Languages.LanguageServer.Host.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\MSBuild\a1d45fa26a1c5ea6ae59704834ee75c1\MSBuild.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\MSTest64\2fae2291673fbeaa4e1c1a9772324359\MSTest64.ni.exe,.NET Framework,4.0
+C:\Windows\assembly\NativeImages_v4.0.30319_64\PerfWatson2\b5afbd7ab5c87cba55fece9c516cfdcb\PerfWatson2.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\PSHOST\b878e29fd894c9ccab0710f1cbfb4da4\PSHOST.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\QTAgent\c94ad04d2144b5519489f6da9e76273e\QTAgent.ni.exe,.NET Framework,4.5
+C:\Windows\assembly\NativeImages_v4.0.30319_64\QTAgent_35\fe1c0d41963795fc80cdc1bde6f08175\QTAgent_35.ni.exe,.NET Framework,v2.0.50727
+C:\Windows\assembly\NativeImages_v4.0.30319_64\QTAgent_40\979b7a7a2ecd93c623133204713a89be\QTAgent_40.ni.exe,.NET Framework,4.0
+C:\Windows\assembly\NativeImages_v4.0.30319_64\QTDCAgent\03c810a38ad87d658bac462b381b31e7\QTDCAgent.ni.exe,.NET Framework,4.0
+C:\Windows\assembly\NativeImages_v4.0.30319_64\sgen\95b6bf0eff788167a779308f843181de\sgen.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\sgen\b01fccfa31e3ae398f4e03055f9d0f7f\sgen.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\sgen\f2455bedfa9dbdbfac149be2e2a6afd9\sgen.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\testhost\7ba0084c7998b56f2063ca43648749db\testhost.ni.exe,.NET Framework,4.6.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\testhost.net47\f036e80398bc624455bb5051b358fcf2\testhost.net47.ni.exe,.NET Framework,4.7
+C:\Windows\assembly\NativeImages_v4.0.30319_64\testhost.net471\9fe746fbe187af9b90830ac32e015cf2\testhost.net471.ni.exe,.NET Framework,4.7.1
+C:\Windows\assembly\NativeImages_v4.0.30319_64\testhost.net472\77a61415fdf743413d7b3aa5ae004773\testhost.net472.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\testhost.net48\d83cd5d7a0b68b867d09785c2cdaac38\testhost.net48.ni.exe,.NET Framework,4.8
+C:\Windows\assembly\NativeImages_v4.0.30319_64\TF\638d6b876eb49a61fae2375f3380fd6b\TF.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\TlbExp\073388c15f0934298e6737dbb71e3b33\TlbExp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\TlbExp\28e1ba62d5aae6fcaf7675d4410527a7\TlbExp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\TlbExp\3a09008380441a2038c9fae4d45f99d4\TlbExp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\TlbImp\801b7f6746553d359dd37893d2201ca9\TlbImp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\TlbImp\d2059fc5ed0fbd369880864c49a006eb\TlbImp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\TlbImp\f26178dae1b998758b8ca8ae6b74544a\TlbImp.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\vbc\5fcb29d73a876ab0a4a29dbf1b07f2f0\vbc.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\VBCSCompiler\d00f16bcef181e85a93c4ed99ec3cc0f\VBCSCompiler.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\VcxprojReader\9ac47005fbf351dad7a24f5a026148a7\VcxprojReader.ni.exe,.NET Framework,4.7.2
+C:\Windows\assembly\NativeImages_v4.0.30319_64\vmconnect\e515876a508a44e03745833432b96d00\vmconnect.ni.exe,.NET Framework,4.6
+C:\Windows\assembly\NativeImages_v4.0.30319_64\vmconnect6.2\9572514b0a01d235d4d922eb0d4e6005\vmconnect6.2.ni.exe,.NET Framework,4.6
+C:\Windows\assembly\NativeImages_v4.0.30319_64\vmconnect6.3\9f97de695d84dc0ced4bfe3ddd8ae0bb\vmconnect6.3.ni.exe,.NET Framework,4.6
+C:\Windows\assembly\NativeImages_v4.0.30319_64\wsdl\0fa6d9040d044647028305e247e723b4\wsdl.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\wsdl\a29981e1493ecfeae6cc3fed776cfb34\wsdl.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\wsdl\da1bad7aff06c96293aec20aa5400ee5\wsdl.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\xsd\7ca1d9a8d03d75484d88832fa4697fcb\xsd.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\xsd\c7b7ed18d24ae566a40ce3c3f8a6da60\xsd.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\assembly\NativeImages_v4.0.30319_64\xsd\d2de7a7113ce4f922f47dff769fb4e6a\xsd.ni.exe,.NET Framework,v4.0.30319
+C:\Windows\Installer\{7A94F4D3-AC7B-48EB-866E-BBA62AEFFA4B}\DebugDiagRuleBuilderIcon.exe,.NET Framework,4.5
+C:\Windows\Installer\{7A94F4D3-AC7B-48EB-866E-BBA62AEFFA4B}\DebugDiagAnalysisIcon.exe,.NET Framework,4.5
+C:\Windows\Microsoft.NET\assembly\GAC_32\MSBuild\v4.0_4.0.0.0__b03f5f7f11d50a3a\MSBuild.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\assembly\GAC_64\MSBuild\v4.0_4.0.0.0__b03f5f7f11d50a3a\MSBuild.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\assembly\GAC_64\vmconnect\v4.0_10.0.0.0__31bf3856ad364e35\vmconnect.exe,.NET Framework,4.6
+C:\Windows\Microsoft.NET\assembly\GAC_64\vmconnect6.2\v4.0_10.0.0.0__31bf3856ad364e35\vmconnect6.2.exe,.NET Framework,4.6
+C:\Windows\Microsoft.NET\assembly\GAC_64\vmconnect6.3\v4.0_10.0.0.0__31bf3856ad364e35\vmconnect6.3.exe,.NET Framework,4.6
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\ComSvcConfig\v4.0_4.0.0.0__b03f5f7f11d50a3a\ComSvcConfig.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\dfsvc\v4.0_4.0.0.0__b03f5f7f11d50a3a\dfsvc.exe,.NET Framework,v4.0.30319
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\InspectVhdDialog\v4.0_10.0.0.0__31bf3856ad364e35\InspectVhdDialog.exe,.NET Framework,4.6
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\InspectVhdDialog6.2\v4.0_10.0.0.0__31bf3856ad364e35\InspectVhdDialog6.2.exe,.NET Framework,4.6
+C:\Windows\Microsoft.NET\assembly\GAC_MSIL\InspectVhdDialog6.3\v4.0_10.0.0.0__31bf3856ad364e35\InspectVhdDialog6.3.exe,.NET Framework,4.6
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\csc\csc.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\tools\sg.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\tools\Gatekeeper.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x64\ilc\ilc.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x86\ilc\csc\csc.exe,.NET Framework,4.5
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x86\ilc\tools\sg.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x86\ilc\tools\Gatekeeper.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.6\tools\x86\ilc\ilc.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\arm\ilc\tools\sg.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\arm\ilc\tools\MakeNativeWinMD.exe,.NET Framework,v4.0.30319
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\arm\ilc\tools\ILCTelemetry.exe,.NET Framework,v4.0.30319
+C:\Windows\SystemApps\Microsoft.XboxGameCallableUI_cw5n1h2txyewy\XBox.TCUI.exe,.NET Framework,4.5
+C:\Windows\WinSxS\amd64_microsoft-windows-gpowershell-exe_31bf3856ad364e35_10.0.19041.1_none_ee822d264112a470\powershell_ise.exe,.NET Framework,4.5.1
+C:\Windows\WinSxS\amd64_microsoft.workflow.compiler_31bf3856ad364e35_4.0.15805.0_none_eb7ee992c51a9917\Microsoft.Workflow.Compiler.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_regasm_b03f5f7f11d50a3a_4.0.15840.3_none_721495e700b292c6\RegAsm.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_regsvcs_b03f5f7f11d50a3a_10.0.19041.1_none_636ab5ebe47bac5e\RegSvcs.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_regsvcs_b03f5f7f11d50a3a_4.0.15805.0_none_4534bcdd53211170\RegSvcs.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_regsvcs_b03f5f7f11d50a3a_4.0.15840.3_none_452fc08d53258b76\RegSvcs.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\amd64_vmconnect6.3_31bf3856ad364e35_10.0.19041.1_none_5c4ad75abbc47892\vmconnect6.3.exe,.NET Framework,4.6
+C:\Windows\WinSxS\amd64_vmconnect_31bf3856ad364e35_10.0.19041.4239_none_04f8c06aff529cee\vmconnect.exe,.NET Framework,4.6
+C:\Windows\WinSxS\amd64_wcf-comsvcconfig_b03f5f7f11d50a3a_10.0.19041.1_none_3f67a7384812df13\ComSvcConfig.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_wcf-servicemodelreg_b03f5f7f11d50a3a_10.0.19041.1_none_2d88affdefab54a8\ServiceModelReg.exe,.NET Framework,v2.0.50727
+C:\Program Files\Git\mingw64\libexec\git-core\Atlassian.Bitbucket.UI.exe,.NET Framework,4.7.2
+C:\Program Files\Hyper-V\6.2\vmconnect6.2.exe,.NET Framework,4.6
+C:\Program Files\Hyper-V\6.2\InspectVhdDialog6.2.exe,.NET Framework,4.6
+C:\Program Files\Hyper-V\6.3\vmconnect6.3.exe,.NET Framework,4.6
+C:\Program Files\Hyper-V\6.3\InspectVhdDialog6.3.exe,.NET Framework,4.6
+C:\Program Files\Hyper-V\VMImport.exe,.NET Framework,4.6
+C:\Program Files\Hyper-V\VMCreate.exe,.NET Framework,4.6
+C:\Program Files\Hyper-V\InspectVhdDialog.exe,.NET Framework,4.6
+C:\Program Files\IIS\Microsoft Web Deploy V3\msdeploy.exe,.NET Framework,4.7.2
+C:\Program Files\IIS Express\IisExpressAdminCmd.exe,.NET Framework,4.5
+C:\Program Files\Internet Explorer\iediagcmd.exe,.NET Framework,4.5
+C:\Program Files\LGHUB\lghub_uninstaller.exe,.NET Framework,4.0
+C:\Users\same_\AppData\Local\MongoDBCompass\app-1.33.1\squirrel.exe,.NET Framework,4.5
+C:\Users\same_\AppData\Local\MongoDBCompass\app-1.34.2\squirrel.exe,.NET Framework,4.5
+C:\Users\same_\AppData\Local\MongoDBCompass\app-1.35.0\squirrel.exe,.NET Framework,4.5
+C:\Users\same_\AppData\Local\MongoDBCompass\Update.exe,.NET Framework,4.5
+C:\Users\same_\AppData\Local\Roon\Application\205201538\winversion.dll,.NET Framework,6.0
+C:\Users\same_\AppData\Local\Roon\Application\205201538\roon_firewall_helper.dll,.NET Framework,6.0
+C:\Users\same_\AppData\Local\Roon\Application\205201538\Roon.dll,.NET Framework,6.0
+C:\Users\same_\AppData\Local\Roon\Application\205201538\remoting_codegen.dll,.NET Framework,6.0
+C:\Users\same_\AppData\Local\Roon\Application\205201538\RAATServer.dll,.NET Framework,6.0
+C:\Users\same_\AppData\Local\RoonServer\Application\205201538\winversion.dll,.NET Framework,6.0
+C:\Users\same_\AppData\Local\RoonServer\Application\205201538\RoonServer.dll,.NET Framework,6.0
+C:\Users\same_\AppData\Local\RoonServer\Application\205201538\RoonAppliance.dll,.NET Framework,6.0
+C:\Users\same_\AppData\Local\RoonServer\Application\205201538\remoting_codegen.dll,.NET Framework,6.0
+C:\Users\same_\AppData\Local\RoonServer\Application\205201538\RAATServer.dll,.NET Framework,6.0
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\Feedback\dump64a.exe,.NET Framework,4.8
+C:\Users\same_\AppData\Local\Temp\0jewprav.o2j\Feedback\dump64.exe,.NET Framework,4.7.2
+C:\Windows\WinSxS\amd64_netfx-dfsvc_b03f5f7f11d50a3a_10.0.19041.1_none_833d086e8f306c45\dfsvc.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_netfx-ieexec_b03f5f7f11d50a3a_10.0.19041.1_none_6a5de40c0a30489e\IEExec.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_netfx-jsc_b03f5f7f11d50a3a_10.0.19041.1_none_014838ef8bea39e9\jsc.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_netfx35linq-addinprocess_31bf3856ad364e35_10.0.19041.1_none_e688384bec188769\AddInProcess.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_netfx35linq-addinutil_31bf3856ad364e35_10.0.19041.1_none_810f46ab82b9619e\AddInUtil.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_netfx35linq-datasvcutil_31bf3856ad364e35_10.0.19041.1_none_4547ebb03c53c11a\DataSvcUtil.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\amd64_netfx35linq-edmgen_31bf3856ad364e35_10.0.19041.1_none_646d0595db3c1ad4\EdmGen.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\msil_inspectvhddialog6.2_31bf3856ad364e35_10.0.19041.1_none_7dc923aebe8d0c7f\InspectVhdDialog6.2.exe,.NET Framework,4.6
+C:\Windows\WinSxS\msil_inspectvhddialog6.3_31bf3856ad364e35_10.0.19041.1_none_7dca23f8be8c25d6\InspectVhdDialog6.3.exe,.NET Framework,4.6
+C:\Windows\WinSxS\msil_inspectvhddialog_31bf3856ad364e35_10.0.19041.4239_none_8ae665955d2c9ca2\InspectVhdDialog.exe,.NET Framework,4.6
+C:\Windows\WinSxS\msil_jsc_b03f5f7f11d50a3a_10.0.19041.1_none_68bc95ae68779efe\jsc.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\wow64_msbuild_b03f5f7f11d50a3a_4.0.15805.0_none_0606cd4b5dabfc56\MSBuild.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_msbuild_b03f5f7f11d50a3a_4.0.15840.3_none_0601d0fb5db0765c\MSBuild.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_regasm_b03f5f7f11d50a3a_4.0.15805.0_none_9be7d950c1f8addd\RegAsm.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\wow64_regasm_b03f5f7f11d50a3a_4.0.15840.3_none_9be2dd00c1fd27e3\RegAsm.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\x86_addinprocess32_b77a5c561934e089_10.0.19041.1_none_dae2223cd3e6f926\AddInProcess32.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\x86_addinprocess32_b77a5c561934e089_4.0.15805.0_none_429bcf7adb8e23ed\AddInProcess32.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\x86_addinprocess32_b77a5c561934e089_4.0.15840.3_none_4296d32adb929df3\AddInProcess32.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\x86_aspnet_compiler_b03f5f7f11d50a3a_10.0.19041.1_none_d9afbb23e990d44a\aspnet_compiler.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\x86_aspnet_regbrowsers_b03f5f7f11d50a3a_10.0.19041.1_none_ca50a32caa12ab10\aspnet_regbrowsers.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\x86_aspnet_regbrowsers_b03f5f7f11d50a3a_10.0.19200.940_none_27b1dc0089158f0d\aspnet_regbrowsers.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\x86_aspnet_regsql_b03f5f7f11d50a3a_10.0.19041.1_none_10c2b4b34d346421\aspnet_regsql.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\x86_aspnet_regsql_b03f5f7f11d50a3a_10.0.19200.940_none_6e23ed872c37481e\aspnet_regsql.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\x86_caspol_b03f5f7f11d50a3a_10.0.19041.1_none_2cbf497a80df4629\CasPol.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\x86_installutil_b03f5f7f11d50a3a_10.0.19041.1_none_3c6036d4b220f210\InstallUtil.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\x86_msbuild_b03f5f7f11d50a3a_10.0.19041.1_none_421bb61742382b2d\MSBuild.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\x86_msbuild_b03f5f7f11d50a3a_3.5.19041.1_none_268817e3e30b41fb\MSBuild.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\x86_netfx4-ngentask_exe_b03f5f7f11d50a3a_4.0.15805.0_none_1bb0d4ac7da3bfe1\ngentask.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\x86_netfx4-ngentask_exe_b03f5f7f11d50a3a_4.0.15805.285_none_1381a27c38a5bf96\ngentask.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\x86_netfx4-ngentask_exe_b03f5f7f11d50a3a_4.0.15840.3_none_1babd85c7da839e7\ngentask.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\x86_regasm_b03f5f7f11d50a3a_10.0.19041.1_none_d7fcc21ca684dcb4\RegAsm.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\x86_regsvcs_b03f5f7f11d50a3a_10.0.19041.1_none_ab17ecc2f8f7d564\RegSvcs.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\x86_regsvcs_b03f5f7f11d50a3a_4.0.15805.0_none_8ce1f3b4679d3a76\RegSvcs.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\x86_regsvcs_b03f5f7f11d50a3a_4.0.15840.3_none_8cdcf76467a1b47c\RegSvcs.exe,.NET Framework,v4.0.30319
+C:\Windows\WinSxS\x86_wpf-terminalserverwpfwrapperexe_31bf3856ad364e35_10.0.19041.1_none_7e31b18ab29f9913\TsWpfWrp.exe,.NET Framework,v2.0.50727
+C:\Windows\WinSxS\x86_wpf-xamlviewer_31bf3856ad364e35_10.0.19041.1_none_afe0be8163ecf7d4\XamlViewer_v0300.exe,.NET Framework,v2.0.50727

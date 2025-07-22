@@ -5,6 +5,9 @@ using System.Collections.Concurrent;
 using PeNet;
 using CsvHelper;
 using CsvHelper.Configuration;
+using System.Reflection.PortableExecutable;
+using System.Text;
+using System.IO;
 
 class Program
 {
@@ -108,28 +111,77 @@ class Program
         }
         catch { return false; }
     }
-
-    static string? IsDotnetFramework(string file)
+    private static int RvaToFileOffset(PEReader peReader, int rva)
     {
         try
         {
-            var peFile = new PeFile(file);
-            var comDirectory = peFile.ImageComDescriptor;
+            // Iterate through section headers to find the one containing the RVA
+            foreach (var section in peReader.PEHeaders.SectionHeaders)
+            {
+                int sectionStart = section.VirtualAddress;
+                int sectionEnd = sectionStart + section.VirtualSize;
 
-            if (comDirectory == null || comDirectory.MetaData == null)
-                return null;
+                // Check if RVA falls within this section
+                if (rva >= sectionStart && rva < sectionEnd)
+                {
+                    // Calculate file offset
+                    return section.PointerToRawData + (rva - sectionStart);
+                }
+            }
 
-            var metadata = peFile.RawFile.ReadUInt((int)comDirectory.MetaData.VirtualAddress + 16);
-            return null;
-            /*if (comDirectory == null || comDirectory.MetaDataDirectory == null)
-                return null;
+            return -1; // RVA not found in any section
+        }
+        catch
+        {
+            return -1;
+        }
+    }
+    public static string? IsDotnetFramework(string exePath)
+    {
+        try
+        {
+            using (var fs = new FileStream(exePath, FileMode.Open, FileAccess.Read))
+            using (var peReader = new PEReader(fs))
+            {
+                // Check if it's a DLL and validate exports
+                // Ensure the PE file has .NET header (COM+ descriptor)
+                var comDescriptor = peReader.PEHeaders.PEHeader.CorHeaderTableDirectory;
+                if (comDescriptor.RelativeVirtualAddress == 0)
+                {
+                    return null;
+                }
 
-            var metaData = peFile.RawFile.ReadBytes((int)comDirectory.MetaDataDirectory.VirtualAddress, 16);
-            int versionLength = BitConverter.ToInt32(metaData, 12);
+                // Convert COM+ descriptor RVA to file offset
+                int comHeaderOffset = RvaToFileOffset(peReader, comDescriptor.RelativeVirtualAddress);
+                if (comHeaderOffset == -1)
+                    return null;
 
-            var versionBytes = peFile.RawFile.ReadBytes((int)comDirectory.MetaDataDirectory.VirtualAddress + 16, versionLength);
-            string version = Encoding.Unicode.GetString(versionBytes).Trim('\0');
-            return version;*/
+                // Read the COM+ header to get metadata RVA
+                fs.Seek(comHeaderOffset + 8, SeekOrigin.Begin); // Metadata RVA is at offset 8
+                byte[] metadataRvaBytes = new byte[4];
+                fs.Read(metadataRvaBytes, 0, 4);
+                uint metadataRva = BitConverter.ToUInt32(metadataRvaBytes, 0);
+
+                // Convert metadata RVA to file offset
+                int metadataFileOffset = RvaToFileOffset(peReader, (int)metadataRva);
+                if (metadataFileOffset == -1)
+                    return null;
+
+                // Read version length from metadata header (offset 12)
+                fs.Seek(metadataFileOffset + 12, SeekOrigin.Begin);
+                byte[] versionLengthBytes = new byte[4];
+                fs.Read(versionLengthBytes, 0, 4);
+                uint versionLength = BitConverter.ToUInt32(versionLengthBytes, 0);
+
+                // Read version string (offset 16)
+                fs.Seek(metadataFileOffset + 16, SeekOrigin.Begin);
+                byte[] versionBytes = new byte[versionLength];
+                fs.Read(versionBytes, 0, (int)versionLength);
+
+                // Convert to string and remove null terminators
+                string versionStr = Encoding.UTF8.GetString(versionBytes).TrimEnd('\0');
+                return versionStr;
+            }
         }
         catch
         {
@@ -137,8 +189,9 @@ class Program
         }
     }
 
-    static string? GetDotnetCoreVersion(AssemblyDefinition assembly)
+    static string? GetDotnetCoreVersion(string path)
     {
+        var assembly = AssemblyDefinition.ReadAssembly(path);
         string? version = assembly.CustomAttributes
                                 .FirstOrDefault(attr =>
                                     attr.AttributeType.FullName == "System.Runtime.Versioning.TargetFrameworkAttribute")
@@ -151,26 +204,28 @@ class Program
         return parts.Length == 2 ? parts[1] : null;
     }
 
+    static bool HasEntrypoint(string path)
+    {
+        var assembly = AssemblyDefinition.ReadAssembly(path);
+        return assembly.EntryPoint != null;
+    }
+
     static InspectResult? InspectImage(string path)
     {
         Console.WriteLine(path);
         try
         {
-            if (IsDotnetCore(path))
+            if (IsDotnetCore(path) && HasEntrypoint(path))
             {
-                // Check if there's an entrypoint
-                var assembly = AssemblyDefinition.ReadAssembly(path);
-                if (assembly.EntryPoint != null)
-                {
-                    string? version = GetDotnetCoreVersion(assembly);
-                    return new InspectResult(path, ".NET Core", version ?? "NA");
-                }
+                string? version = GetDotnetCoreVersion(path);
+                return new InspectResult(path, ".NET Core", version ?? "NA");
             }
 
             var dotnet_framework_version = IsDotnetFramework(path);
-            if (dotnet_framework_version != null)
+            if (dotnet_framework_version != null && HasEntrypoint(path))
             {
-                return new InspectResult(path, ".NET Framework", dotnet_framework_version);
+                string? version = GetDotnetCoreVersion(path);
+                return new InspectResult(path, ".NET Framework", version ?? dotnet_framework_version);
             }
         }
         catch { }
@@ -181,7 +236,8 @@ class Program
     static void Main(string[] args)
     {
         // string drive = args.Length > 0 ? args[0] : @"C:\";
-        string drive = @"F:\";
+        InspectImage(@"C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64\8.0.5\runtimes\iossimulator-x64\lib\net8.0\System.Net.Sockets.dll");
+        string drive = @"C:\";
         // string drive = @"F:\workspace\sandbox\lang-detection\scripts\dotnet-core-scanner-v2\dotnet-scanner\bin";
         Console.WriteLine($"Searching for .exe/.dll files in {drive}");
 
