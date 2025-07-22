@@ -182,21 +182,16 @@ class Program
         string drive = args.Length > 0 ? args[0] : @"C:\";
         Console.WriteLine($"Searching for .exe/.dll files in {drive}");
 
-        var images = FindImages(drive).ToList();
-        Console.WriteLine($"Found {images.Count} files.");
-
-        if (images.Count == 0)
-            return;
-
         Console.WriteLine("Scanning for .NET info...");
 
-        var results = new ConcurrentBag<InspectResult>();
-        Parallel.ForEach(images, new ParallelOptions { MaxDegreeOfParallelism = Environment.ProcessorCount }, file =>
-        {
-            var result = InspectImage(file);
-            if (result != null && !string.IsNullOrEmpty(result.Framework))
-                results.Add(result);
-        });
+        var results = FindImages(drive)
+            .AsParallel()
+            .WithDegreeOfParallelism(Environment.ProcessorCount)
+            .Select(InspectImage)
+            .Where(result => result != null && !string.IsNullOrEmpty(result.Framework))
+            .ToList();
+
+        Console.WriteLine($"Found {results.Count} .NET applications.");
 
         Console.WriteLine("Writing results to dotnet_core_exes.csv");
 
