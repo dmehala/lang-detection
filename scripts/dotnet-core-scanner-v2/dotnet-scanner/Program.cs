@@ -1,5 +1,4 @@
-﻿using System;
-using System.Globalization;
+﻿using System.Globalization;
 using Mono.Cecil;
 using System.Collections.Concurrent;
 using PeNet;
@@ -7,7 +6,7 @@ using CsvHelper;
 using CsvHelper.Configuration;
 using System.Reflection.PortableExecutable;
 using System.Text;
-using System.IO;
+using System.IO.Enumeration;
 
 class Program
 {
@@ -26,79 +25,25 @@ class Program
 
     record InspectResult(string Image, string Framework, string Version);
 
-    static List<string> FindImages(string rootPath)
+    static IEnumerable<string> FindImages(string rootPath)
     {
-        var files = new List<string>();
-        foreach (var file in GetAllFiles(rootPath))
+        return new FileSystemEnumerable<string>(
+               directory: rootPath,
+               transform: (ref FileSystemEntry entry) => entry.ToFullPath(), // map FileSystemEntry to string (see FileSystemEnumerable generic argument)
+               options: new EnumerationOptions()
+               {
+                   RecurseSubdirectories = true
+               })
         {
-            if (file.EndsWith(".exe", StringComparison.OrdinalIgnoreCase) || file.EndsWith(".dll", StringComparison.OrdinalIgnoreCase))
+            ShouldIncludePredicate = (ref FileSystemEntry entry) =>
             {
-                files.Add(file);
+                var fullPath = entry.ToFullPath();
+                var ext = Path.GetExtension(fullPath);
+                return !entry.IsDirectory &&
+                    (ext.Equals(".exe", StringComparison.OrdinalIgnoreCase) ||
+                     ext.Equals(".dll", StringComparison.OrdinalIgnoreCase));
             }
-        }
-        // try
-        // {
-        //     // foreach (var file in Directory.EnumerateFiles(rootPath, "*.*", SearchOption.AllDirectories))
-        //     // {
-        //     //     Console.WriteLine(file);
-        //     //     if (file.EndsWith(".exe", StringComparison.OrdinalIgnoreCase) ||
-        //     //         file.EndsWith(".dll", StringComparison.OrdinalIgnoreCase))
-        //     //     {
-        //     //         files.Add(file);
-        //     //     }
-        //     // }
-        //     // files = Directory.EnumerateFiles(rootPath, "*.*", SearchOption.AllDirectories)
-        //     //     .Where(f => f.EndsWith(".exe", StringComparison.OrdinalIgnoreCase) ||
-        //     //                 f.EndsWith(".dll", StringComparison.OrdinalIgnoreCase))
-        //     //     .ToList();
-        // }
-        // catch (UnauthorizedAccessException) { Console.WriteLine("fuck me"); /* Skip restricted directories */ }
-        // catch (Exception ex) { Console.WriteLine($"Error reading directory: {ex.Message}"); }
-
-        return files;
-    }
-
-    static IEnumerable<string> GetAllFiles(string root)
-    {
-        var pending = new Stack<string>();
-        pending.Push(root);
-
-        while (pending.Count > 0)
-        {
-            var path = pending.Pop();
-            string[] files = null;
-            string[] dirs = null;
-
-            try
-            {
-                files = Directory.GetFiles(path);
-            }
-            catch (UnauthorizedAccessException) { continue; }
-            catch (DirectoryNotFoundException) { continue; }
-
-            if (files != null)
-            {
-                foreach (var file in files)
-                {
-                    yield return file;
-                }
-            }
-
-            try
-            {
-                dirs = Directory.GetDirectories(path);
-            }
-            catch (UnauthorizedAccessException) { continue; }
-            catch (DirectoryNotFoundException) { continue; }
-
-            if (dirs != null)
-            {
-                foreach (var dir in dirs)
-                {
-                    pending.Push(dir);
-                }
-            }
-        }
+        };
     }
 
     static bool IsDotnetCore(string file)
@@ -212,7 +157,6 @@ class Program
 
     static InspectResult? InspectImage(string path)
     {
-        Console.WriteLine(path);
         try
         {
             if (IsDotnetCore(path) && HasEntrypoint(path))
@@ -235,27 +179,19 @@ class Program
 
     static void Main(string[] args)
     {
-        // string drive = args.Length > 0 ? args[0] : @"C:\";
-        InspectImage(@"C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64\8.0.5\runtimes\iossimulator-x64\lib\net8.0\System.Net.Sockets.dll");
-        string drive = @"C:\";
-        // string drive = @"F:\workspace\sandbox\lang-detection\scripts\dotnet-core-scanner-v2\dotnet-scanner\bin";
+        string drive = args.Length > 0 ? args[0] : @"C:\";
         Console.WriteLine($"Searching for .exe/.dll files in {drive}");
-
-        var images = FindImages(drive);
-        Console.WriteLine($"Found {images.Count} files.");
-
-        if (images.Count == 0)
-            return;
 
         Console.WriteLine("Scanning for .NET info...");
 
-        var results = new ConcurrentBag<InspectResult>();
-        Parallel.ForEach(images, new ParallelOptions { MaxDegreeOfParallelism = Environment.ProcessorCount }, file =>
-        {
-            var result = InspectImage(file);
-            if (result != null && !string.IsNullOrEmpty(result.Framework))
-                results.Add(result);
-        });
+        var results = FindImages(drive)
+            .AsParallel()
+            .WithDegreeOfParallelism(Environment.ProcessorCount)
+            .Select(InspectImage)
+            .Where(result => result != null && !string.IsNullOrEmpty(result.Framework))
+            .ToList();
+
+        Console.WriteLine($"Found {results.Count} .NET applications.");
 
         Console.WriteLine("Writing results to dotnet_core_exes.csv");
 
