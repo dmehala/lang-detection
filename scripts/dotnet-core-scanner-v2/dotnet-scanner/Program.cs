@@ -23,7 +23,7 @@ class Program
     };
 
 
-    record InspectResult(string Image, string Framework, string Version);
+    record InspectResult(string Image, string Framework, string Version, string CompanyName, string LegalCopyright, string ProductName, string CertificateName);
 
     static IEnumerable<string> FindImages(string rootPath)
     {
@@ -155,21 +155,76 @@ class Program
         return assembly.EntryPoint != null;
     }
 
+    static string GetCompanyNameFromSignature(string path)
+    {
+        try
+        {
+            // Open the file as a signed CMS/PKCS#7 structure
+            var fileBytes = File.ReadAllBytes(path);
+            // Find the Authenticode signature (PKCS#7) in the PE file
+            // This is a simplified approach using SignedCms and X509Certificate2
+            // The signature is usually in the Win32 PE file's "WIN_CERTIFICATE" structure,
+            // but .NET does not provide a direct API to extract it, so we use SignedCms if possible.
+
+            // Use System.Security.Cryptography.Pkcs if available
+            // Find the signature offset using Win32 structures
+            // For simplicity, use X509Certificate.CreateFromSignedFile if available (Windows only)
+            try
+            {
+                var cert = System.Security.Cryptography.X509Certificates.X509Certificate.CreateFromSignedFile(path);
+                var x509 = new System.Security.Cryptography.X509Certificates.X509Certificate2(cert);
+                var company = x509.GetNameInfo(System.Security.Cryptography.X509Certificates.X509NameType.SimpleName, false);
+                if (!string.IsNullOrEmpty(company))
+                    return company;
+                // Try OrganizationName as fallback
+                company = x509.GetNameInfo(System.Security.Cryptography.X509Certificates.X509NameType.DnsName, false);
+                if (!string.IsNullOrEmpty(company))
+                    return company;
+            }
+            catch
+            {
+                // Fallback: try to enumerate certificates using X509Certificate2Collection
+                try
+                {
+                    var collection = new System.Security.Cryptography.X509Certificates.X509Certificate2Collection();
+                    collection.Import(path);
+                    foreach (var cert in collection)
+                    {
+                        var company = cert.GetNameInfo(System.Security.Cryptography.X509Certificates.X509NameType.SimpleName, false);
+                        if (!string.IsNullOrEmpty(company))
+                            return company;
+                    }
+                }
+                catch
+                {
+                    // Ignore
+                }
+            }
+        }
+        catch
+        {
+            // Ignore
+        }
+        return "Unknown";
+    }
+
+
     static InspectResult? InspectImage(string path)
     {
         try
         {
+            var fileVersionInfo = System.Diagnostics.FileVersionInfo.GetVersionInfo(path);
             if (IsDotnetCore(path) && HasEntrypoint(path))
             {
                 string? version = GetDotnetCoreVersion(path);
-                return new InspectResult(path, ".NET Core", version ?? "NA");
+                return new InspectResult(path, ".NET Core", version ?? "NA", fileVersionInfo.CompanyName ?? "Unknown", fileVersionInfo.LegalCopyright ?? "Unknown", fileVersionInfo.ProductName ?? "Unknown", GetCompanyNameFromSignature(path));
             }
 
             var dotnet_framework_version = IsDotnetFramework(path);
             if (dotnet_framework_version != null && HasEntrypoint(path))
             {
                 string? version = GetDotnetCoreVersion(path);
-                return new InspectResult(path, ".NET Framework", version ?? dotnet_framework_version);
+                return new InspectResult(path, ".NET Framework", version ?? dotnet_framework_version, fileVersionInfo.CompanyName ?? "Unknown", fileVersionInfo.LegalCopyright ?? "Unknown", fileVersionInfo.ProductName ?? "Unknown", GetCompanyNameFromSignature(path));
             }
         }
         catch { }
